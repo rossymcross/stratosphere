@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', () => {
         document.documentElement.style.setProperty('--scrollbar-width', `${scrollbarWidth}px`);
         
         // Set the iframe source (served from root /stratosphere/)
-        bookingIframe.src = '/v2/booking/index.html';
+        bookingIframe.src = '/stratosphere/booking/index.html';
         
         // Show the modal
         bookingModal.classList.add('active');

@@ -133,6 +133,7 @@ p {
 
 /* Utility Bar */
 .utility-bar {
+    display: none; /* Hidden on mobile by default */
     background-color: #2FBFC5;
     color: #041C2C;
     font-size: 0.75rem;
@@ -184,10 +185,21 @@ p {
     text-align: right;
 }
 
+/* Show utility bar on desktop */
+@media (min-width: 993px) {
+    .utility-bar {
+        display: block;
+    }
+    
+    .navbar {
+        top: 36px; /* Below utility bar on desktop */
+    }
+}
+
 /* Navbar */
 .navbar {
     position: fixed;
-    top: 36px;
+    top: 0; /* At top on mobile (no utility bar) */
     left: 0;
     width: 100%;
     z-index: 1000;
@@ -763,10 +775,6 @@ footer {
     .utility-promo {
         flex: none;
         text-align: center;
-    }
-    
-    .navbar {
-        top: 72px;
     }
     
     .nav-links {
