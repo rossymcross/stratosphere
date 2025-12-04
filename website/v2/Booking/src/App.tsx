@@ -308,6 +308,7 @@ export default function App() {
               category={bookingData.partyCategory}
               onBack={() => setStep('party-type')}
               onSelectPackage={handlePackageSelect}
+              onContactUs={() => setStep('large-group')}
             />
           </motion.div>
         )}

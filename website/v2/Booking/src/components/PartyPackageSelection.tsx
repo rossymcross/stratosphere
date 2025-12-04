@@ -8,6 +8,7 @@ interface PartyPackageSelectionProps {
   category: PartyCategory;
   onBack: () => void;
   onSelectPackage: (packageId: string) => void;
+  onContactUs?: () => void;
 }
 
 const highlightText = (text: string, highlights: string[], colorClass: string) => {
@@ -35,7 +36,7 @@ const highlightText = (text: string, highlights: string[], colorClass: string) =
   return parts;
 };
 
-export const PartyPackageSelection = ({ category, onBack, onSelectPackage }: PartyPackageSelectionProps) => {
+export const PartyPackageSelection = ({ category, onBack, onSelectPackage, onContactUs }: PartyPackageSelectionProps) => {
   const data = PARTY_PACKAGES_DATA[category];
 
   if (!data) return <div>Invalid category</div>;
@@ -78,6 +79,7 @@ export const PartyPackageSelection = ({ category, onBack, onSelectPackage }: Par
           const isStrike = pkg.id === 'strike';
           const isSpare = pkg.id === 'spare';
           const isSplit = pkg.id === 'split';
+          const isAxeBowl = pkg.id === 'axe-bowl';
           
           return (
             <div 
@@ -204,7 +206,7 @@ export const PartyPackageSelection = ({ category, onBack, onSelectPackage }: Par
 
                 {/* CTA */}
                 <button
-                  onClick={() => onSelectPackage(pkg.id)}
+                  onClick={() => isAxeBowl && onContactUs ? onContactUs() : onSelectPackage(pkg.id)}
                   className={cn(
                     "w-full py-4 rounded-full font-black text-sm uppercase tracking-[0.15em] transition-all shadow-lg",
                     isStrike 
@@ -216,7 +218,7 @@ export const PartyPackageSelection = ({ category, onBack, onSelectPackage }: Par
                           : "bg-transparent border border-[#71D2EB] text-[#71D2EB] hover:bg-[#71D2EB] hover:text-[#041C2C]"
                   )}
                 >
-                  Select Package
+                  {isAxeBowl ? 'Contact Us' : 'Select Package'}
                 </button>
               </div>
             </div>
