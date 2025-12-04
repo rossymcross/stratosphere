@@ -39,11 +39,6 @@ export const LargeGroupConfirmation = ({ onHome }: LargeGroupConfirmationProps) 
           </span>
         </Button>
       </motion.div>
-
-      {/* Page Number */}
-      <div className="absolute bottom-8 left-8 z-20 text-white/10 font-black text-6xl md:text-8xl pointer-events-none select-none font-montserrat">
-        03
-      </div>
     </div>
   );
 };
