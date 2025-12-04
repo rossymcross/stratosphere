@@ -93,7 +93,7 @@ export const AuthModal = ({ isOpen, onClose, onSuccess }: AuthModalProps) => {
                 {view === 'login' ? 'Welcome Back' : view === 'signup' ? 'Join the Squad' : view === 'otp' ? 'Verify Phone' : 'Phone Login'}
             </h2>
             <p className="text-white/60 text-sm mb-8">
-                {view === 'login' ? 'Sign in to access your bookings' : view === 'signup' ? 'Create an account to get started' : view === 'otp' ? 'Enter the code sent to your phone' : 'We will send you a code'}
+                {view === 'login' ? 'Sign in to access your bookings' : view === 'signup' ? 'Create an account to get started' : view === 'otp' ? 'Enter the 6-digit code we just texted you' : "Enter your mobile number and we'll text you a verification code"}
             </p>
 
             {error && <div className="mb-4 p-3 rounded-lg bg-red-500/20 border border-red-500/50 text-red-200 text-sm">{error}</div>}
@@ -127,14 +127,22 @@ export const AuthModal = ({ isOpen, onClose, onSuccess }: AuthModalProps) => {
 
                 {view === 'phone' && (
                      <div className="relative">
-                        <Phone className="absolute top-3 left-3 w-5 h-5 text-white/40" />
+                        <div className="absolute top-3 left-3 flex items-center gap-1 text-white/60 font-medium">
+                            <Phone className="w-4 h-4" />
+                            <span>+1</span>
+                        </div>
                         <input 
                             type="tel" 
-                            placeholder="Phone Number (e.g. +1555...)" 
+                            placeholder="(555) 123-4567" 
                             value={phone}
-                            onChange={e => setPhone(e.target.value)}
-                            className="w-full bg-white/5 border border-white/10 rounded-xl py-3 pl-10 pr-4 text-white placeholder:text-white/30 focus:outline-none focus:border-[#71D2EB] focus:bg-white/10 transition-all"
+                            onChange={e => {
+                                // Remove any non-digit characters for storage, but keep +1 prefix
+                                const digits = e.target.value.replace(/\D/g, '');
+                                setPhone(digits ? `+1${digits}` : '');
+                            }}
+                            className="w-full bg-white/5 border border-white/10 rounded-xl py-3 pl-16 pr-4 text-white placeholder:text-white/30 focus:outline-none focus:border-[#71D2EB] focus:bg-white/10 transition-all"
                         />
+                        <p className="mt-2 text-white/40 text-xs">Standard messaging rates may apply</p>
                     </div>
                 )}
 
