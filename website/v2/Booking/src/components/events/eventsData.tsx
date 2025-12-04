@@ -130,9 +130,44 @@ export const EVENTS: Event[] = [
     id: 'brews-with-bites',
     title: 'Brews with Bites',
     subheading: 'great FOOD. GREAT BEER. great PEOPLE.',
-    priceDisplay: '$60/person',
+    priceDisplay: 'From $45/person',
     shortDescription: 'FEATURING BEST DISHES FROM 2025!',
-    longDescription: 'If you love great food and local craft beers then you won’t want to miss our monthly Brews with Bites beer dinners! Join us once a month to enjoy a chef-crafted 4 course meal paired with 4 beers from a featured local brewery. This is a great way to expand your palate and enjoy a fun night out with friends!',
+    longDescription: (
+      <>
+        <div className="mb-6 p-4 rounded-lg bg-[#71D2EB]/10 border border-[#71D2EB]/30 text-center">
+          <p className="font-bold text-lg text-[#71D2EB] uppercase">Featuring Best Dishes from 2025!</p>
+        </div>
+
+        <p className="mb-6">
+          If you love great food and local craft beers then you won't want to miss our monthly Brews with Bites beer dinners! Join us once a month to enjoy a chef-crafted meal paired with beers from a featured local brewery. This is a great way to expand your palate and enjoy a fun night out with friends!
+        </p>
+
+        <div className="bg-white/10 rounded-xl p-6 border border-white/10 mb-6">
+          <h4 className="font-bold text-xl text-white uppercase mb-4">Ticket Includes:</h4>
+          <ul className="space-y-3">
+            <li className="flex items-start gap-3">
+              <span className="text-[#71D2EB] mt-1 font-bold">✓</span>
+              <span className="text-white font-medium">Chef-crafted 4 course meal</span>
+            </li>
+            <li className="flex items-start gap-3">
+              <span className="text-[#71D2EB] mt-1 font-bold">✓</span>
+              <span className="text-white font-medium">Four Craft Brews</span>
+            </li>
+            <li className="flex items-start gap-3">
+              <span className="text-[#71D2EB] mt-1 font-bold">✓</span>
+              <span className="text-white font-medium">Souvenir Glass</span>
+            </li>
+          </ul>
+          <p className="font-bold text-2xl text-[#71D2EB] mt-4">$60 per person</p>
+        </div>
+
+        <div className="bg-white/5 rounded-xl p-6 border border-white/10">
+          <h4 className="font-bold text-lg text-white uppercase mb-2">Non-Alcoholic Ticket</h4>
+          <p className="text-white/70 mb-2">Includes food only, cannot share beer</p>
+          <p className="font-bold text-xl text-[#71D2EB]">$45 per person</p>
+        </div>
+      </>
+    ),
     image: brewsImg,
     type: 'ticket',
     date: 'Tuesday, Dec 9 • 7:00 PM',
