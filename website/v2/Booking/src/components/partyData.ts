@@ -144,6 +144,7 @@ export const PARTY_PACKAGES_DATA: Record<PartyCategory, PartyCategoryData> = {
         title: 'SPLIT PACKAGE',
         priceDisplay: '$339 (Mon-Thu) / $365 (Fri-Sun)',
         guestsIncluded: 10,
+        additionalGuestPrice: 25,
         image: splitImg,
         includes: [
           '1 hour of bowling',
