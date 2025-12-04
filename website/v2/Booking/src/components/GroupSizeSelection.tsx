@@ -28,7 +28,7 @@ export const GroupSizeSelection = ({ onSelect }: GroupSizeSelectionProps) => {
               icon="user"
               headline="1 - 15 Guests"
               subHeadline="Instant Booking"
-              bodyText="Perfect for date nights, small family outings, or hanging out with friends. Reserve lanes, tables, or axe throwing bays immediately."
+              bodyText="Perfect for birthday parties, group hangouts, or bringing your whole crew together. Reserve lanes, tables, or axe throwing bays immediately."
             />
           </div>
           
