@@ -5,7 +5,9 @@ interface BookingCardProps {
   headline: string;
   subHeadline: string;
   bodyText: string;
-  icon: 'user' | 'users';
+  icon: 'user' | 'users' | React.ReactNode;
+  buttonText?: string;
+  onClick?: () => void;
 }
 
 export const BookingCard: React.FC<BookingCardProps> = ({
@@ -13,6 +15,8 @@ export const BookingCard: React.FC<BookingCardProps> = ({
   subHeadline,
   bodyText,
   icon,
+  buttonText = 'Select',
+  onClick,
 }) => {
   // Reusable definition for the standard user shape
   const UserShape = (
@@ -70,7 +74,7 @@ export const BookingCard: React.FC<BookingCardProps> = ({
       <div className="relative z-10 flex flex-col items-start">
         {/* Icon */}
         <div className="w-[48px] h-[48px] flex items-center justify-center text-white">
-          {icon === 'user' && (
+          {icon === 'user' ? (
             <svg
               width="48"
               height="48"
@@ -80,9 +84,7 @@ export const BookingCard: React.FC<BookingCardProps> = ({
             >
                {UserShape}
             </svg>
-          )}
-          
-          {icon === 'users' && (
+          ) : icon === 'users' ? (
             <svg
               width="48"
               height="48"
@@ -126,6 +128,9 @@ export const BookingCard: React.FC<BookingCardProps> = ({
               {/* Foreground Center User */}
               <use href="#center-user" fill="white" />
             </svg>
+          ) : (
+            // Custom icon (React node)
+            icon
           )}
         </div>
 
@@ -146,11 +151,12 @@ export const BookingCard: React.FC<BookingCardProps> = ({
 
       {/* Button */}
       <button
+        onClick={onClick}
         className="relative z-10 w-full h-[56px] rounded-[100px] bg-[#66E0F8] 
         text-[#1A2B33] font-semibold text-base
         hover:bg-[#9eeefe] transition-colors cursor-pointer flex items-center justify-center"
       >
-        Select
+        {buttonText}
       </button>
     </motion.div>
   );

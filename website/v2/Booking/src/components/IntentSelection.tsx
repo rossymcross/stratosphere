@@ -1,10 +1,6 @@
 import React from 'react';
 import { ArrowLeft, Ticket, PartyPopper, Axe } from 'lucide-react';
-import { GlassCard } from './ui/GlassCard';
-// Intent selection images
-import eventsImg from "../assets/intent/events.png";
-import partyImg from "../assets/intent/party.png";
-import axeImg from "../assets/intent/axe.png";
+import { BookingCard } from './BookingCard';
 
 interface IntentSelectionProps {
   onBack: () => void;
@@ -38,30 +34,39 @@ export const IntentSelection = ({ onBack, onSelect }: IntentSelectionProps) => {
       </header>
 
       {/* Cards Grid */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6 w-full max-w-6xl">
-        <GlassCard
-          icon={<Ticket className="w-8 h-8" />}
-          title="Special Events"
-          buttonText="View Events"
-          backgroundImage={eventsImg}
-          onClick={() => onSelect('events')}
-        />
+      <div className="flex flex-col md:flex-row gap-8 items-center justify-center w-full">
+        <div onClick={() => onSelect('events')}>
+          <BookingCard
+            icon={<Ticket className="w-12 h-12" strokeWidth={1.5} />}
+            headline="Special Events"
+            subHeadline="Tickets & Experiences"
+            bodyText="Browse our calendar of exciting events including dueling pianos, trivia nights, karaoke, and themed celebrations."
+            buttonText="View Events"
+            onClick={() => onSelect('events')}
+          />
+        </div>
         
-        <GlassCard
-          icon={<PartyPopper className="w-8 h-8" />}
-          title="PARTY BOOKINGS"
-          buttonText="Plan Party"
-          backgroundImage={partyImg}
-          onClick={() => onSelect('party')} className="text-[20px]"
-        />
+        <div onClick={() => onSelect('party')}>
+          <BookingCard
+            icon={<PartyPopper className="w-12 h-12" strokeWidth={1.5} />}
+            headline="Party Bookings"
+            subHeadline="Celebrate With Us"
+            bodyText="Plan your perfect party with bowling, arcade games, and more. Choose from our curated packages for birthdays and celebrations."
+            buttonText="Plan Party"
+            onClick={() => onSelect('party')}
+          />
+        </div>
 
-        <GlassCard
-          icon={<Axe className="w-8 h-8" />}
-          title="Axe Throwing"
-          buttonText="Book Bay"
-          backgroundImage={axeImg}
-          onClick={() => onSelect('axe-throwing')}
-        />
+        <div onClick={() => onSelect('axe-throwing')}>
+          <BookingCard
+            icon={<Axe className="w-12 h-12" strokeWidth={1.5} />}
+            headline="Axe Throwing"
+            subHeadline="Book a Bay"
+            bodyText="Reserve an axe throwing bay for you and your friends. Perfect for competitive fun and memorable experiences."
+            buttonText="Book Bay"
+            onClick={() => onSelect('axe-throwing')}
+          />
+        </div>
       </div>
 
     </div>
