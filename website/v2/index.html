@@ -3,557 +3,117 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Stratosphere Social | Eldersburg's Premier Entertainment Destination</title>
-    <meta name="description" content="Bowling, arcade, axe throwing, scratch kitchen & craft drinks in Carroll County. Perfect for corporate events, birthday parties & nights out. Book now!">
-    
-    <!-- Fonts -->
-    <link rel="stylesheet" href="https://use.typekit.net/qlq8sxc.css">
+    <title>Stratosphere Social - Eldersburg</title>
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png">
+    <link rel="stylesheet" href="css/styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet">
-    
-    <!-- Styles -->
-    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
 </head>
 <body>
-    <!-- Skip to content for accessibility -->
-    <a href="#main-content" class="skip-link">Skip to main content</a>
+    <!-- Utility Bar -->
+    <div class="utility-bar">
+        <div class="utility-container">
+            <span class="utility-hours">OPEN UNTIL 12AM FRI & SAT</span>
+            <span class="utility-address">
+                <a href="https://maps.google.com/?q=1332+Londontown+Blvd+Eldersburg+MD+21784" target="_blank">1332 LONDONTOWN BLVD, ELDERSBURG, MD 21784</a>
+                <span class="utility-divider">|</span>
+                <a href="tel:+14437305635">443-730-5635</a>
+            </span>
+            <a href="#" class="utility-promo" data-booking-trigger>BOOK YOUR HOLIDAY PARTY TODAY!</a>
+        </div>
+    </div>
 
-    <!-- ========================================
-         NAVIGATION COMPONENT
-         ======================================== -->
-    <header class="site-header" role="banner">
-        <nav class="main-nav" aria-label="Main navigation">
-            <div class="nav-container">
-                <!-- Logo -->
-                <a href="/" class="logo" aria-label="Stratosphere Social - Home">
-                    <img src="../stratosphere_audit/home/Logo-Finals-color-01-1.avif" alt="Stratosphere Social" class="logo-img">
-                </a>
-
-                <!-- Mobile Menu Toggle -->
-                <button class="mobile-menu-toggle" aria-label="Toggle menu" aria-expanded="false" aria-controls="nav-menu">
-                    <span class="hamburger-line"></span>
-                    <span class="hamburger-line"></span>
-                    <span class="hamburger-line"></span>
-                </button>
-
-                <!-- Navigation Menu -->
-                <div class="nav-menu" id="nav-menu">
-                    <ul class="nav-links">
-                        <li class="nav-item has-dropdown">
-                            <a href="#eat-drink" class="nav-link">Eat & Drink</a>
-                            <ul class="dropdown-menu">
-                                <li><a href="/food-menu">Food Menu</a></li>
-                                <li><a href="/drink-menu">Drink Menu</a></li>
-                                <li><a href="/specials">Specials & Happy Hour</a></li>
-                            </ul>
-                        </li>
-                        <li class="nav-item has-dropdown">
-                            <a href="#play" class="nav-link">Play</a>
-                            <ul class="dropdown-menu">
-                                <li><a href="/bowling">Bowling</a></li>
-                                <li><a href="/arcade">Arcade</a></li>
-                                <li><a href="/axe-throwing">Axe Throwing</a></li>
-                                <li><a href="/xd-theater">XD Theater</a></li>
-                            </ul>
-                        </li>
-                        <li class="nav-item has-dropdown">
-                            <a href="#parties-events" class="nav-link">Parties & Events</a>
-                            <ul class="dropdown-menu">
-                                <li><a href="/corporate-events">Corporate Events</a></li>
-                                <li><a href="/birthday-parties">Birthday Parties</a></li>
-                                <li><a href="/group-events">Group Events</a></li>
-                                <li><a href="/event-calendar">Event Calendar</a></li>
-                            </ul>
-                        </li>
-                        <li class="nav-item has-dropdown">
-                            <a href="#info" class="nav-link">Info</a>
-                            <ul class="dropdown-menu">
-                                <li><a href="/hours">Hours & Location</a></li>
-                                <li><a href="/contact">Contact Us</a></li>
-                                <li><a href="/about">About Us</a></li>
-                            </ul>
-                        </li>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container nav-container">
+            <a href="#" class="logo">
+                <img src="assets/logo.avif" alt="Stratosphere Social Logo">
+            </a>
+            <ul class="nav-links">
+                <!-- Play & Attractions Dropdown -->
+                <li class="nav-item has-dropdown">
+                    <a href="#" class="nav-link">Play & Attractions <span class="chevron">▾</span></a>
+                    <ul class="dropdown">
+                        <li><a href="#">Bowling</a></li>
+                        <li><a href="#">Arcade</a></li>
+                        <li><a href="#">Axe Throwing</a></li>
+                        <li><a href="#">XD Theater</a></li>
+                        <li><a href="#">VR Experience</a></li>
                     </ul>
-
-                    <!-- CTA Button -->
-                    <a href="/book" class="btn btn-primary nav-cta">Book Now</a>
-                </div>
-            </div>
-        </nav>
-    </header>
-
-    <main id="main-content">
-        <!-- ========================================
-             HERO COMPONENT
-             ======================================== -->
-        <section class="hero" aria-label="Welcome to Stratosphere Social">
-            <div class="hero-background">
-                <video autoplay muted loop playsinline class="hero-video" poster="../stratosphere_audit/look_inside/7010a5_4f83df9966a243b98548b3f4d7b8bd1dmv2.webp">
-                    <source src="../stratosphere_audit/home/file.mp4" type="video/mp4">
-                </video>
-                <div class="hero-overlay"></div>
-            </div>
-            
-            <div class="hero-content">
-                <div class="hero-text">
-                    <p class="hero-tagline">Carroll County's Premier Entertainment Destination</p>
-                    <h1 class="hero-headline">Where Every Visit Becomes a Memory</h1>
-                    <p class="hero-subheadline">Bowling • Arcade • Axe Throwing • Scratch Kitchen • Craft Drinks</p>
-                    
-                    <div class="hero-ctas">
-                        <a href="/visit" class="btn btn-primary btn-lg">Plan Your Visit</a>
-                        <a href="#explore" class="btn btn-secondary btn-lg">Explore Stratosphere</a>
-                    </div>
-                </div>
-
-                <!-- Hero Cards for High-Value Conversions -->
-                <div class="hero-cards">
-                    <!-- Corporate Events Card - HIGHEST VALUE -->
-                    <a href="/corporate-events" class="hero-card hero-card--corporate">
-                        <div class="hero-card-image">
-                            <img src="../stratosphere_audit/look_inside/7010a5_6bd827c794de40618b47a8ea62047866mv2.webp" 
-                                 alt="Happy corporate team at Stratosphere Social" 
-                                 loading="eager">
-                        </div>
-                        <div class="hero-card-content">
-                            <span class="hero-card-label">Corporate & Team Events</span>
-                            <h3 class="hero-card-title">Epic Team Building</h3>
-                            <p class="hero-card-desc">Turn meetings into memories. Custom packages for 50-200+ guests.</p>
-                            <span class="hero-card-cta">Plan Your Event →</span>
-                        </div>
-                    </a>
-
-                    <!-- Birthday Parties Card - HIGH VALUE -->
-                    <a href="/birthday-parties" class="hero-card hero-card--birthday">
-                        <div class="hero-card-image">
-                            <img src="../stratosphere_audit/parties_events/nerf-war-kids.avif" 
-                                 alt="Kids having fun at birthday party" 
-                                 loading="eager">
-                        </div>
-                        <div class="hero-card-content">
-                            <span class="hero-card-label">Birthday Parties</span>
-                            <h3 class="hero-card-title">Unforgettable Celebrations</h3>
-                            <p class="hero-card-desc">Arcade, bowling & themed parties. Let us handle everything!</p>
-                            <span class="hero-card-cta">Book a Party →</span>
-                        </div>
-                    </a>
-                </div>
-            </div>
-
-            <!-- Scroll Indicator -->
-            <div class="hero-scroll-indicator" aria-hidden="true">
-                <span class="scroll-text">Scroll to explore</span>
-                <div class="scroll-arrow"></div>
-            </div>
-        </section>
-
-        <!-- ========================================
-             VENUE HIGHLIGHTS SECTION
-             ======================================== -->
-        <section class="venue-highlights" id="explore" aria-labelledby="highlights-heading">
-            <div class="container">
-                <header class="section-header">
-                    <h2 id="highlights-heading" class="section-title">Everything Under One Roof</h2>
-                    <p class="section-subtitle">From bowling to axe throwing, craft cocktails to scratch-made food—there's something for everyone.</p>
-                </header>
-
-                <div class="highlights-grid">
-                    <!-- Bowling -->
-                    <article class="highlight-card highlight-card--featured">
-                        <div class="highlight-card-image">
-                            <img src="../stratosphere_audit/attractions/7010a5_ada6f871c2e34ac5afa420978988de06mv2.webp" 
-                                 alt="Modern bowling lanes with colorful balls" 
-                                 loading="lazy">
-                        </div>
-                        <div class="highlight-card-content">
-                            <span class="highlight-card-category">Play</span>
-                            <h3 class="highlight-card-title">High-Tech Bowling</h3>
-                            <p class="highlight-card-desc">State-of-the-art Brunswick lanes with full lane-side service. Walk-ins welcome!</p>
-                            <div class="highlight-card-meta">
-                                <span class="price-tag">From $20/lane/hr</span>
-                                <span class="availability">Tue-Wed Special</span>
-                            </div>
-                            <a href="/bowling" class="btn btn-ghost">Learn More</a>
-                        </div>
-                    </article>
-
-                    <!-- Arcade -->
-                    <article class="highlight-card">
-                        <div class="highlight-card-image">
-                            <img src="../stratosphere_audit/look_inside/7010a5_a7b52090c3d44c039dfa20b33d665af9mv2.webp" 
-                                 alt="NBA arcade basketball game with neon lights" 
-                                 loading="lazy">
-                        </div>
-                        <div class="highlight-card-content">
-                            <span class="highlight-card-category">Play</span>
-                            <h3 class="highlight-card-title">Modern Arcade</h3>
-                            <p class="highlight-card-desc">Latest games, claw machines, racing sims & more. Collect e-tickets for prizes!</p>
-                            <a href="/arcade" class="btn btn-ghost">Explore Games</a>
-                        </div>
-                    </article>
-
-                    <!-- Axe Throwing -->
-                    <article class="highlight-card">
-                        <div class="highlight-card-image">
-                            <img src="../stratosphere_audit/axe_throwing/target.avif" 
-                                 alt="Interactive axe throwing target" 
-                                 loading="lazy">
-                        </div>
-                        <div class="highlight-card-content">
-                            <span class="highlight-card-category">Play</span>
-                            <h3 class="highlight-card-title">Axe Throwing</h3>
-                            <p class="highlight-card-desc">Interactive targets with Tic-Tac-Toe, Connect Four & zombie games. Ages 15+.</p>
-                            <div class="highlight-card-meta">
-                                <span class="price-tag">From $15/person</span>
-                            </div>
-                            <a href="/axe-throwing" class="btn btn-ghost">Book a Lane</a>
-                        </div>
-                    </article>
-
-                    <!-- XD Theater -->
-                    <article class="highlight-card">
-                        <div class="highlight-card-image">
-                            <img src="../stratosphere_audit/look_inside/7010a5_5804ff292a6e41cf891cb5be96001a42mv2.webp" 
-                                 alt="7D XD Theater simulator seats" 
-                                 loading="lazy">
-                        </div>
-                        <div class="highlight-card-content">
-                            <span class="highlight-card-category">Experience</span>
-                            <h3 class="highlight-card-title">7D XD Theater</h3>
-                            <p class="highlight-card-desc">Immersive roller coaster simulator with vibrating seats, water mists & air blasts!</p>
-                            <a href="/xd-theater" class="btn btn-ghost">Take the Ride</a>
-                        </div>
-                    </article>
-
-                    <!-- Scratch Kitchen -->
-                    <article class="highlight-card highlight-card--wide">
-                        <div class="highlight-card-image">
-                            <img src="../stratosphere_audit/look_inside/7010a5_0810fee2b301417fae4d8516e20ad8dfmv2.webp" 
-                                 alt="Loaded tater tots with craft beer" 
-                                 loading="lazy">
-                        </div>
-                        <div class="highlight-card-content">
-                            <span class="highlight-card-category">Eat & Drink</span>
-                            <h3 class="highlight-card-title">Scratch Kitchen & Craft Bar</h3>
-                            <p class="highlight-card-desc">From loaded tots to gourmet flatbreads, plus 20+ Maryland craft beers and handcrafted cocktails.</p>
-                            <div class="highlight-card-ctas">
-                                <a href="/food-menu" class="btn btn-ghost">Food Menu</a>
-                                <a href="/drink-menu" class="btn btn-ghost">Drink Menu</a>
-                            </div>
-                        </div>
-                    </article>
-                </div>
-            </div>
-        </section>
-
-        <!-- ========================================
-             FEATURE HIGHLIGHT SECTION (Parties & Events)
-             ======================================== -->
-        <section class="feature-highlight" aria-labelledby="events-heading">
-            <div class="feature-highlight-bg">
-                <img src="../stratosphere_audit/look_inside/7010a5_439a5bcf53b3436fa7ab215bfb354d31mv2.webp" 
-                     alt="Stratosphere Social dining and entertainment space" 
-                     loading="lazy">
-                <div class="feature-highlight-overlay"></div>
-            </div>
-            
-            <div class="container">
-                <div class="feature-highlight-content">
-                    <header class="feature-highlight-header">
-                        <span class="feature-highlight-label">Parties & Events</span>
-                        <h2 id="events-heading" class="feature-highlight-title">The Unforgettable Party Experience</h2>
-                        <p class="feature-highlight-desc">
-                            From corporate team building to kids' birthdays, we create customizable experiences 
-                            that fit your party needs. Private spaces, dedicated hosts, and action-packed activities 
-                            make every celebration epic.
-                        </p>
-                    </header>
-
-                    <div class="feature-packages">
-                        <!-- Corporate Events -->
-                        <div class="feature-package feature-package--primary">
-                            <div class="package-icon">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="32" height="32">
-                                    <path d="M12 7V3H2v18h20V7H12zM6 19H4v-2h2v2zm0-4H4v-2h2v2zm0-4H4V9h2v2zm0-4H4V5h2v2zm4 12H8v-2h2v2zm0-4H8v-2h2v2zm0-4H8V9h2v2zm0-4H8V5h2v2zm10 12h-8v-2h2v-2h-2v-2h2v-2h-2V9h8v10zm-2-8h-2v2h2v-2zm0 4h-2v2h2v-2z"/>
-                                </svg>
-                            </div>
-                            <h3 class="package-title">Corporate & Team Building</h3>
-                            <p class="package-desc">Custom packages for 50-200+ guests with bowling, axe throwing, private karaoke, and more.</p>
-                            <ul class="package-features">
-                                <li>Flexible group packages</li>
-                                <li>Private spaces & VIP vibes</li>
-                                <li>Dedicated event hosts</li>
-                                <li>Food platters & drink tickets</li>
-                            </ul>
-                            <a href="/corporate-events" class="btn btn-primary">Plan Corporate Event</a>
-                        </div>
-
-                        <!-- Birthday Parties -->
-                        <div class="feature-package">
-                            <div class="package-icon">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="32" height="32">
-                                    <path d="M12 6c1.11 0 2-.9 2-2 0-.38-.1-.73-.29-1.03L12 0l-1.71 2.97c-.19.3-.29.65-.29 1.03 0 1.1.9 2 2 2zm4.6 9.99l-1.07-1.07-1.08 1.07c-1.3 1.3-3.58 1.31-4.89 0l-1.07-1.07-1.09 1.07C6.75 16.64 5.88 17 4.96 17c-.73 0-1.4-.23-1.96-.61V21c0 .55.45 1 1 1h16c.55 0 1-.45 1-1v-4.61c-.56.38-1.23.61-1.96.61-.92 0-1.79-.36-2.44-1.01zM18 9h-5V7h-2v2H6c-1.66 0-3 1.34-3 3v1.54c0 1.08.88 1.96 1.96 1.96.52 0 1.02-.2 1.38-.57l2.14-2.13 2.13 2.13c.74.74 2.03.74 2.77 0l2.14-2.13 2.13 2.13c.37.37.86.57 1.38.57 1.08 0 1.96-.88 1.96-1.96V12C21 10.34 19.66 9 18 9z"/>
-                                </svg>
-                            </div>
-                            <h3 class="package-title">Birthday Parties</h3>
-                            <p class="package-desc">All-inclusive packages starting at $180 for 10 guests with arcade, bowling, pizza & more.</p>
-                            <ul class="package-features">
-                                <li>Arcade & bowling packages</li>
-                                <li>Themed karaoke parties</li>
-                                <li>Nerf War battles</li>
-                                <li>Dedicated party host</li>
-                            </ul>
-                            <a href="/birthday-parties" class="btn btn-secondary">Browse Packages</a>
-                        </div>
-
-                        <!-- Special Events -->
-                        <div class="feature-package">
-                            <div class="package-icon">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="32" height="32">
-                                    <path d="M19 3h-1V1h-2v2H8V1H6v2H5c-1.11 0-1.99.9-1.99 2L3 19c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V8h14v11zM9 10H7v2h2v-2zm4 0h-2v2h2v-2zm4 0h-2v2h2v-2zm-8 4H7v2h2v-2zm4 0h-2v2h2v-2zm4 0h-2v2h2v-2z"/>
-                                </svg>
-                            </div>
-                            <h3 class="package-title">Weekly Events</h3>
-                            <p class="package-desc">Free trivia Thursdays, Dueling Pianos, happy hour specials, and seasonal celebrations.</p>
-                            <ul class="package-features">
-                                <li>Trivia Night (Thursdays 7-9pm)</li>
-                                <li>Dueling Pianos shows</li>
-                                <li>50% off lanes Tue-Wed</li>
-                                <li>Axes & Ales Mondays</li>
-                            </ul>
-                            <a href="/event-calendar" class="btn btn-secondary">View Calendar</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- ========================================
-             INFO BAR COMPONENT
-             ======================================== -->
-        <section class="info-bar" aria-label="Quick information">
-            <div class="container">
-                <div class="info-bar-grid">
-                    <!-- Hours -->
-                    <div class="info-item">
-                        <div class="info-icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="28" height="28">
-                                <path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67z"/>
-                            </svg>
-                        </div>
-                        <div class="info-content">
-                            <h3 class="info-title">Hours</h3>
-                            <p class="info-text">Mon-Thu: 11am-10pm</p>
-                            <p class="info-text">Fri-Sat: 11am-12am</p>
-                            <p class="info-text">Sun: 11am-10pm</p>
-                        </div>
-                        <div class="info-status info-status--open">
-                            <span class="status-dot"></span>
-                            <span class="status-text">Open Now</span>
-                        </div>
-                    </div>
-
-                    <!-- Location -->
-                    <div class="info-item">
-                        <div class="info-icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="28" height="28">
-                                <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
-                            </svg>
-                        </div>
-                        <div class="info-content">
-                            <h3 class="info-title">Location</h3>
-                            <p class="info-text">1332 Londontown Blvd</p>
-                            <p class="info-text">Eldersburg, MD 21784</p>
-                            <a href="https://maps.google.com/?q=1332+Londontown+Blvd+Eldersburg+MD+21784" target="_blank" rel="noopener" class="info-link">Get Directions →</a>
-                        </div>
-                    </div>
-
-                    <!-- Contact -->
-                    <div class="info-item">
-                        <div class="info-icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="28" height="28">
-                                <path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/>
-                            </svg>
-                        </div>
-                        <div class="info-content">
-                            <h3 class="info-title">Contact</h3>
-                            <a href="tel:443-537-2626" class="info-text info-link">443-537-2626</a>
-                            <a href="mailto:Events@Stratosphere-Social.com" class="info-text info-link">Events@Stratosphere-Social.com</a>
-                        </div>
-                    </div>
-
-                    <!-- Quick Action -->
-                    <div class="info-item info-item--cta">
-                        <p class="info-cta-text">Ready to play?</p>
-                        <a href="/book" class="btn btn-primary">Book Now</a>
-                        <p class="info-note">Walk-ins welcome for bowling & arcade</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- ========================================
-             UTILITY STRIP
-             ======================================== -->
-        <section class="utility-strip" aria-label="Additional information">
-            <div class="container">
-                <div class="utility-grid">
-                    <!-- Sign Waiver -->
-                    <a href="/waiver" class="utility-item">
-                        <div class="utility-icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="24" height="24">
-                                <path d="M14 2H6c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm2 16H8v-2h8v2zm0-4H8v-2h8v2zm-3-5V3.5L18.5 9H13z"/>
-                            </svg>
-                        </div>
-                        <span class="utility-label">Sign Waiver</span>
-                        <span class="utility-hint">Required for axe throwing</span>
-                    </a>
-
-                    <!-- Gift Cards -->
-                    <a href="/gift-cards" class="utility-item">
-                        <div class="utility-icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="24" height="24">
-                                <path d="M20 6h-2.18c.11-.31.18-.65.18-1 0-1.66-1.34-3-3-3-1.05 0-1.96.54-2.5 1.35l-.5.67-.5-.68C10.96 2.54 10.05 2 9 2 7.34 2 6 3.34 6 5c0 .35.07.69.18 1H4c-1.11 0-1.99.89-1.99 2L2 19c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V8c0-1.11-.89-2-2-2zm-5-2c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zM9 4c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zm11 15H4v-2h16v2zm0-5H4V8h5.08L7 10.83 8.62 12 11 8.76l1-1.36 1 1.36L15.38 12 17 10.83 14.92 8H20v6z"/>
-                            </svg>
-                        </div>
-                        <span class="utility-label">Gift Cards</span>
-                        <span class="utility-hint">The perfect gift</span>
-                    </a>
-
-                    <!-- Careers -->
-                    <a href="/careers" class="utility-item">
-                        <div class="utility-icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="24" height="24">
-                                <path d="M20 6h-4V4c0-1.11-.89-2-2-2h-4c-1.11 0-2 .89-2 2v2H4c-1.11 0-1.99.89-1.99 2L2 19c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V8c0-1.11-.89-2-2-2zm-6 0h-4V4h4v2z"/>
-                            </svg>
-                        </div>
-                        <span class="utility-label">Careers</span>
-                        <span class="utility-hint">Join our team</span>
-                    </a>
-
-                    <!-- Donations -->
-                    <a href="/donations" class="utility-item">
-                        <div class="utility-icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="24" height="24">
-                                <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/>
-                            </svg>
-                        </div>
-                        <span class="utility-label">Donations</span>
-                        <span class="utility-hint">Community support</span>
-                    </a>
-
-                    <!-- FAQ -->
-                    <a href="/faq" class="utility-item">
-                        <div class="utility-icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="24" height="24">
-                                <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 17h-2v-2h2v2zm2.07-7.75l-.9.92C13.45 12.9 13 13.5 13 15h-2v-.5c0-1.1.45-2.1 1.17-2.83l1.24-1.26c.37-.36.59-.86.59-1.41 0-1.1-.9-2-2-2s-2 .9-2 2H8c0-2.21 1.79-4 4-4s4 1.79 4 4c0 .88-.36 1.68-.93 2.25z"/>
-                            </svg>
-                        </div>
-                        <span class="utility-label">FAQ</span>
-                        <span class="utility-hint">Common questions</span>
-                    </a>
-                </div>
-            </div>
-        </section>
-    </main>
-
-    <!-- ========================================
-         FOOTER COMPONENT
-         ======================================== -->
-    <footer class="site-footer" role="contentinfo">
-        <div class="container">
-            <div class="footer-main">
-                <!-- Brand Column -->
-                <div class="footer-brand">
-                    <a href="/" class="footer-logo">
-                        <img src="../stratosphere_audit/home/Logo-Finals-color-01-1.avif" alt="Stratosphere Social" class="footer-logo-img">
-                    </a>
-                    <p class="footer-tagline">Carroll County's Premier Entertainment Destination</p>
-                    
-                    <!-- Social Links -->
-                    <div class="social-links">
-                        <a href="https://facebook.com/stratospheresocial" target="_blank" rel="noopener" class="social-link" aria-label="Facebook">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="20" height="20">
-                                <path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12c0 4.84 3.44 8.87 8 9.8V15H8v-3h2V9.5C10 7.57 11.57 6 13.5 6H16v3h-2c-.55 0-1 .45-1 1v2h3v3h-3v6.95c5.05-.5 9-4.76 9-9.95z"/>
-                            </svg>
-                        </a>
-                        <a href="https://instagram.com/stratospheresocial" target="_blank" rel="noopener" class="social-link" aria-label="Instagram">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="20" height="20">
-                                <path d="M7.8 2h8.4C19.4 2 22 4.6 22 7.8v8.4a5.8 5.8 0 0 1-5.8 5.8H7.8C4.6 22 2 19.4 2 16.2V7.8A5.8 5.8 0 0 1 7.8 2m-.2 2A3.6 3.6 0 0 0 4 7.6v8.8C4 18.39 5.61 20 7.6 20h8.8a3.6 3.6 0 0 0 3.6-3.6V7.6C20 5.61 18.39 4 16.4 4H7.6m9.65 1.5a1.25 1.25 0 0 1 1.25 1.25A1.25 1.25 0 0 1 17.25 8 1.25 1.25 0 0 1 16 6.75a1.25 1.25 0 0 1 1.25-1.25M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3z"/>
-                            </svg>
-                        </a>
-                        <a href="https://yelp.com/biz/stratosphere-social" target="_blank" rel="noopener" class="social-link" aria-label="Yelp">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="20" height="20">
-                                <path d="M21.111 18.226c-.141.969-2.119 3.483-2.88 3.668-.76.186-1.225-.479-1.631-1.015-.405-.536-1.835-2.609-2.11-3.044-.275-.435-.217-.934.218-1.26.435-.326 2.439-1.597 2.988-1.949.55-.352 1.009-.292 1.308.093.299.385 2.107 2.506 2.107 3.507zm-5.363-2.449c-.405.13-2.725.869-3.226 1.033-.501.165-.847.01-1.058-.454-.212-.464-.804-2.391-.948-2.891s.01-.849.479-1.013c.47-.164 2.726-.859 3.276-1.015.55-.157.884.013 1.049.476.164.464.833 2.691.833 3.391 0 .305-.207.43-.405.473zm-6.792-8.203c.55.182 2.728.905 3.202 1.071.475.165.676.533.529 1.04-.146.507-.812 2.595-1.012 3.123-.2.528-.453.647-.986.476-.532-.172-2.624-.882-3.158-1.062-.533-.179-.691-.502-.562-1.004.13-.501.818-2.541 1.016-3.143.198-.602.422-.683.971-.501zm.49-1.312c-.547-.146-2.834-.757-3.337-.889-.503-.131-.737-.461-.583-.99.154-.528.976-2.608 1.219-3.146.243-.538.546-.655 1.074-.467.528.188 2.637.914 3.163 1.099.527.185.645.546.5 1.043-.145.497-.888 2.553-1.088 3.031-.2.478-.401.465-.948.319z"/>
-                            </svg>
-                        </a>
-                    </div>
-                </div>
-
-                <!-- Quick Links -->
-                <nav class="footer-nav" aria-label="Footer navigation">
-                    <div class="footer-nav-column">
-                        <h4 class="footer-nav-title">Play</h4>
-                        <ul class="footer-nav-list">
-                            <li><a href="/bowling">Bowling</a></li>
-                            <li><a href="/arcade">Arcade</a></li>
-                            <li><a href="/axe-throwing">Axe Throwing</a></li>
-                            <li><a href="/xd-theater">XD Theater</a></li>
-                        </ul>
-                    </div>
-                    <div class="footer-nav-column">
-                        <h4 class="footer-nav-title">Eat & Drink</h4>
-                        <ul class="footer-nav-list">
-                            <li><a href="/food-menu">Food Menu</a></li>
-                            <li><a href="/drink-menu">Drink Menu</a></li>
-                            <li><a href="/specials">Specials</a></li>
-                            <li><a href="/happy-hour">Happy Hour</a></li>
-                        </ul>
-                    </div>
-                    <div class="footer-nav-column">
-                        <h4 class="footer-nav-title">Events</h4>
-                        <ul class="footer-nav-list">
-                            <li><a href="/corporate-events">Corporate Events</a></li>
-                            <li><a href="/birthday-parties">Birthday Parties</a></li>
-                            <li><a href="/event-calendar">Event Calendar</a></li>
-                            <li><a href="/trivia">Trivia Night</a></li>
-                        </ul>
-                    </div>
-                    <div class="footer-nav-column">
-                        <h4 class="footer-nav-title">Info</h4>
-                        <ul class="footer-nav-list">
-                            <li><a href="/hours">Hours & Location</a></li>
-                            <li><a href="/contact">Contact Us</a></li>
-                            <li><a href="/careers">Careers</a></li>
-                            <li><a href="/faq">FAQ</a></li>
-                        </ul>
-                    </div>
-                </nav>
-
-                <!-- Contact Info -->
-                <div class="footer-contact">
-                    <h4 class="footer-nav-title">Visit Us</h4>
-                    <address class="footer-address">
-                        <p>1332 Londontown Blvd<br>Eldersburg, MD 21784</p>
-                    </address>
-                    <p class="footer-phone"><a href="tel:443-537-2626">443-537-2626</a></p>
-                    <p class="footer-email"><a href="mailto:Events@Stratosphere-Social.com">Events@Stratosphere-Social.com</a></p>
-                </div>
-            </div>
-
-            <div class="footer-bottom">
-                <p class="footer-copyright">© 2025 Stratosphere Social. All rights reserved.</p>
-                <div class="footer-legal">
-                    <a href="/privacy">Privacy Policy</a>
-                    <a href="/terms">Terms of Service</a>
-                </div>
+                </li>
+                <!-- Parties & Events Dropdown -->
+                <li class="nav-item has-dropdown">
+                    <a href="#" class="nav-link">Parties & Events <span class="chevron">▾</span></a>
+                    <ul class="dropdown">
+                        <li><a href="#">Parties & Groups</a></li>
+                        <li><a href="#">Event Calendar</a></li>
+                        <li><a href="#">Corporate Events</a></li>
+                    </ul>
+                </li>
+                <!-- Eat & Drink Dropdown -->
+                <li class="nav-item has-dropdown">
+                    <a href="#" class="nav-link">Eat & Drink <span class="chevron">▾</span></a>
+                    <ul class="dropdown">
+                        <li><a href="#">Food Menu</a></li>
+                        <li><a href="#">Drink Menu</a></li>
+                        <li><a href="#">Specials & Happy Hour</a></li>
+                    </ul>
+                </li>
+                <!-- Info Dropdown -->
+                <li class="nav-item has-dropdown">
+                    <a href="#" class="nav-link">Info <span class="chevron">▾</span></a>
+                    <ul class="dropdown">
+                        <li><a href="#">Location & Hours</a></li>
+                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="#">Take a Look Inside</a></li>
+                        <li><a href="#">Gift Cards</a></li>
+                        <li><a href="#">Join Our Team</a></li>
+                        <li><a href="#">Community</a></li>
+                        <li><a href="#">Donation Requests</a></li>
+                    </ul>
+                </li>
+                <!-- Book Now CTA -->
+                <li class="nav-item">
+                    <a href="#" class="btn btn-primary nav-cta" data-booking-trigger>Book Now</a>
+                </li>
+            </ul>
+            <div class="mobile-menu-btn">
+                <span></span>
+                <span></span>
+                <span></span>
             </div>
         </div>
-    </footer>
+    </nav>
 
-    <!-- JavaScript -->
-    <script src="js/main.js" defer></script>
+    <!-- Hero Section -->
+    <header class="hero">
+        <div class="video-background">
+            <video autoplay muted loop playsinline preload="auto" id="bg-video">
+                <source src="assets/hero.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <div class="overlay"></div>
+        </div>
+        
+        <div class="hero-content container">
+            <h1>Eldersburg's Premier<br>Social Destination</h1>
+            <p>Play games, watch sports, eat and drink at Stratosphere Social.</p>
+            <div class="cta-group">
+                <a href="#" class="btn btn-large btn-primary" data-booking-trigger>Plan a Visit</a>
+                <a href="#" class="btn btn-large btn-outline">Explore Stratosphere Social</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Booking Modal Overlay -->
+    <div id="booking-modal" class="booking-modal">
+        <button class="booking-close" aria-label="Close booking">&times;</button>
+        <iframe id="booking-iframe" src="" frameborder="0" allow="payment"></iframe>
+    </div>
+
+    <script src="js/main.js"></script>
 </body>
 </html>
-
