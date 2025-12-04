@@ -187,11 +187,16 @@ p {
 /* Hide utility bar on mobile */
 @media (max-width: 992px) {
     .utility-bar {
-        display: none;
+        display: none !important;
+        visibility: hidden;
+        height: 0;
+        overflow: hidden;
+        opacity: 0;
     }
     
     .navbar {
         top: 0;
+        border-top: none;
     }
 }
 
