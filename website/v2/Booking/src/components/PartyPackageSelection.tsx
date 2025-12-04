@@ -89,8 +89,8 @@ export const PartyPackageSelection = ({ category, onBack, onSelectPackage }: Par
                   : isSpare
                     ? "border-[#E2E8F0]/50 shadow-[0_0_30px_rgba(226,232,240,0.1)] scale-[1.01] z-0"
                     : isSplit
-                      ? "border-[#CD7F32]/50 hover:border-[#CD7F32] hover:shadow-[0_20px_50px_rgba(205,127,50,0.15)]"
-                      : "border-white/10 hover:border-[#71D2EB]/50 hover:shadow-[0_20px_50px_rgba(113,210,235,0.15)]"
+                      ? "border-[#CD7F32]/50 hover:shadow-[inset_0_0_0_2px_#CD7F32,0_0_30px_-5px_#CD7F32]"
+                      : "border-white/10 hover:shadow-[inset_0_0_0_2px_#66E0F8,0_0_30px_-5px_#66E0F8]"
               )}
             >
               {isStrike && (

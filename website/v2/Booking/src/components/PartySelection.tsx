@@ -44,7 +44,7 @@ export const PartySelection = ({ onBack, onSelect }: PartySelectionProps) => {
             className={cn(
               "group relative flex flex-col w-full rounded-[24px] overflow-hidden text-left transition-all duration-500",
               "border border-white/10 shadow-lg bg-[#041C2C]/60 backdrop-blur-xl",
-              "hover:border-[#71D2EB]/50 hover:shadow-[0_20px_50px_rgba(113,210,235,0.15)] hover:-translate-y-2"
+              "hover:shadow-[inset_0_0_0_2px_#66E0F8,0_0_30px_-5px_#66E0F8] hover:-translate-y-2"
             )}
           >
             {/* Image Container - 16:9 Aspect Ratio */}
