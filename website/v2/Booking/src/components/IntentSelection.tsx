@@ -1,6 +1,6 @@
 import React from 'react';
 import { ArrowLeft, Ticket, PartyPopper, Axe } from 'lucide-react';
-import { BookingCard } from './BookingCard';
+import { GlassCard } from './ui/GlassCard';
 // Intent selection images
 import eventsImg from "../assets/intent/events.png";
 import partyImg from "../assets/intent/party.png";
@@ -38,39 +38,30 @@ export const IntentSelection = ({ onBack, onSelect }: IntentSelectionProps) => {
       </header>
 
       {/* Cards Grid */}
-      <div className="flex flex-col md:flex-row gap-8 items-center justify-center w-full">
-        <div onClick={() => onSelect('events')}>
-          <BookingCard
-            icon={<Ticket className="w-8 h-8" strokeWidth={1.5} />}
-            headline="Special Events"
-            subHeadline="Tickets & Experiences"
-            buttonText="View Events"
-            onClick={() => onSelect('events')}
-            backgroundImage={eventsImg}
-          />
-        </div>
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-6 w-full max-w-6xl">
+        <GlassCard
+          icon={<Ticket className="w-8 h-8" />}
+          title="Special Events"
+          buttonText="View Events"
+          backgroundImage={eventsImg}
+          onClick={() => onSelect('events')}
+        />
         
-        <div onClick={() => onSelect('party')}>
-          <BookingCard
-            icon={<PartyPopper className="w-8 h-8" strokeWidth={1.5} />}
-            headline="Party Bookings"
-            subHeadline="Celebrate With Us"
-            buttonText="Plan Party"
-            onClick={() => onSelect('party')}
-            backgroundImage={partyImg}
-          />
-        </div>
+        <GlassCard
+          icon={<PartyPopper className="w-8 h-8" />}
+          title="PARTY BOOKINGS"
+          buttonText="Plan Party"
+          backgroundImage={partyImg}
+          onClick={() => onSelect('party')} className="text-[20px]"
+        />
 
-        <div onClick={() => onSelect('axe-throwing')}>
-          <BookingCard
-            icon={<Axe className="w-8 h-8" strokeWidth={1.5} />}
-            headline="Axe Throwing"
-            subHeadline="Book a Bay"
-            buttonText="Book Bay"
-            onClick={() => onSelect('axe-throwing')}
-            backgroundImage={axeImg}
-          />
-        </div>
+        <GlassCard
+          icon={<Axe className="w-8 h-8" />}
+          title="Axe Throwing"
+          buttonText="Book Bay"
+          backgroundImage={axeImg}
+          onClick={() => onSelect('axe-throwing')}
+        />
       </div>
 
     </div>
