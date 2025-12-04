@@ -184,6 +184,16 @@ p {
     text-align: right;
 }
 
+/* Hide utility bar on mobile */
+@media (max-width: 992px) {
+    .utility-bar {
+        display: none;
+    }
+    
+    .navbar {
+        top: 0;
+    }
+}
 
 /* Navbar */
 .navbar {
