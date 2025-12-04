@@ -6,21 +6,27 @@ import { cn } from './ui/utils';
 interface DateSelectionProps {
   onBack: () => void;
   onNext: (date: Date, time: string, guestCount: number) => void;
+  onLargeGroupInquiry?: () => void;
   pageNumber?: string;
   initialGuestCount?: number;
   minGuests?: number;
   maxGuests?: number;
   laneCapacity?: number;
+  additionalGuestPrice?: number;
+  guestsIncluded?: number;
 }
 
 export const DateSelection = ({ 
   onBack, 
-  onNext, 
+  onNext,
+  onLargeGroupInquiry,
   pageNumber = "05",
   initialGuestCount = 4,
   minGuests = 1,
   maxGuests,
-  laneCapacity
+  laneCapacity,
+  additionalGuestPrice,
+  guestsIncluded
 }: DateSelectionProps) => {
   const [date, setDate] = useState<Date | undefined>(new Date());
   const [selectedTime, setSelectedTime] = useState<string | null>(null);
@@ -139,8 +145,29 @@ export const DateSelection = ({
                 </div>
             )}
 
+            {/* Additional Guest Pricing */}
+            {additionalGuestPrice && guestsIncluded && (
+              <div className="mt-3 p-3 rounded-xl bg-white/5 border border-white/10">
+                <p className="text-xs text-white/70 text-center">
+                  <span className="text-white font-bold">{guestsIncluded} guests included</span> in package.
+                  <br />
+                  Additional guests <span className="text-[#71D2EB] font-bold">${additionalGuestPrice}/each</span>
+                </p>
+              </div>
+            )}
+
             <p className="text-center mt-3 text-[10px] text-white/40 font-montserrat uppercase tracking-wider">
-                For groups 16+, please use the <br/> Large Group Inquiry form.
+                For groups 16+, please use the <br/> 
+                {onLargeGroupInquiry ? (
+                  <button 
+                    onClick={onLargeGroupInquiry}
+                    className="text-[#71D2EB] hover:text-[#71D2EB]/80 underline transition-colors"
+                  >
+                    Large Group Inquiry form
+                  </button>
+                ) : (
+                  <span>Large Group Inquiry form</span>
+                )}.
             </p>
           </div>
         </div>

@@ -151,6 +151,22 @@ export default function App() {
     return undefined;
   };
 
+  const getAdditionalGuestPrice = () => {
+    if (bookingData.packageId && bookingData.partyCategory) {
+      const pkg = PARTY_PACKAGES_DATA[bookingData.partyCategory]?.packages.find(p => p.id === bookingData.packageId);
+      return pkg?.additionalGuestPrice;
+    }
+    return undefined;
+  };
+
+  const getGuestsIncluded = () => {
+    if (bookingData.packageId && bookingData.partyCategory) {
+      const pkg = PARTY_PACKAGES_DATA[bookingData.partyCategory]?.packages.find(p => p.id === bookingData.packageId);
+      return pkg?.guestsIncluded;
+    }
+    return undefined;
+  };
+
   return (
     <div className="relative min-h-screen w-full bg-[#041C2C] overflow-x-hidden text-white font-montserrat">
       <AnimatedBackground />
@@ -320,6 +336,7 @@ export default function App() {
                 setBookingData(prev => ({ ...prev, date, time, guestCount }));
                 setStep('details');
               }}
+              onLargeGroupInquiry={() => setStep('large-group')}
               pageNumber={
                 bookingData.intent === 'bowling' ? "08" :
                 bookingData.intent === 'axe-throwing' ? "11" :
@@ -329,6 +346,8 @@ export default function App() {
               minGuests={getMinGuests()}
               maxGuests={getMaxGuests()}
               laneCapacity={getLaneCapacity()}
+              additionalGuestPrice={getAdditionalGuestPrice()}
+              guestsIncluded={getGuestsIncluded()}
             />
           </motion.div>
         )}
