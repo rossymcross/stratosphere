@@ -197,6 +197,7 @@ p {
     .navbar {
         top: 0;
         border-top: none;
+        background: transparent;
     }
 }
 
