@@ -73,12 +73,15 @@ export const GlassCard = ({
       <button
         onClick={onClick}
         className={cn(
-          "group relative flex flex-col w-full min-h-[400px] rounded-[32px] overflow-hidden text-left transition-all duration-500 cubic-bezier(0.4, 0, 0.2, 1)",
-          "shadow-[inset_0_0_0_1px_rgba(255,255,255,0.2),0_8px_30px_rgba(0,0,0,0.12)]",
-          "hover:shadow-[inset_0_0_0_2px_#66E0F8,0_0_30px_-5px_#66E0F8] hover:-translate-y-1",
-          "focus:outline-none focus:ring-2 focus:ring-[#66E0F8] bg-[#041C2C]"
+          "group relative flex flex-col w-full min-h-[400px] rounded-[24px] overflow-hidden text-left transition-all duration-500",
+          "shadow-[0_8px_30px_rgba(0,0,0,0.12)]",
+          "hover:shadow-[0_0_30px_-5px_#66E0F8] hover:-translate-y-1",
+          "focus:outline-none bg-[#041C2C]"
         )}
       >
+        {/* Border Overlay - sits on top of everything */}
+        <div className="absolute inset-0 z-20 rounded-[24px] pointer-events-none border border-white/30 transition-all duration-300 group-hover:border-[#66E0F8] group-hover:border-2 group-hover:shadow-[inset_0_0_20px_rgba(102,224,248,0.15)]" />
+        
         {/* Background Image - Full Cover */}
         <div className="absolute inset-0 z-0">
           <ImageWithFallback
