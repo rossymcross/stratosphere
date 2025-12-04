@@ -1,0 +1,1789 @@
+{
+  "results": [
+    {
+      "url": "https://www.stratospheresocial.com/eldersburg",
+      "title": "Stratosphere Social | Events, Arcade, Sports Bar & Restaurant",
+      "internalLinks": [
+        "https://www.stratospheresocial.com/eldersburg",
+        "https://www.stratospheresocial.com/eldersburg/parties-events",
+        "https://www.stratospheresocial.com/eldersburg/attractions-specials",
+        "https://www.stratospheresocial.com/eldersburg/bowling",
+        "https://www.stratospheresocial.com/eldersburg/arcade",
+        "https://www.stratospheresocial.com/eldersburg/xd-theater",
+        "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+        "https://www.stratospheresocial.com/eldersburg/events",
+        "https://www.stratospheresocial.com/eldersburg/duelingpianos",
+        "https://www.stratospheresocial.com/eldersburg/trivia-night",
+        "https://www.stratospheresocial.com/eldersburg/brews-with-bites",
+        "https://www.stratospheresocial.com/eldersburg/new-years-eve",
+        "https://www.stratospheresocial.com/eldersburg/food-menu",
+        "https://www.stratospheresocial.com/eldersburg/drink-menu",
+        "https://www.stratospheresocial.com/eldersburg/join-our-team",
+        "https://www.stratospheresocial.com/eldersburg/community",
+        "https://www.stratospheresocial.com/hagerstown",
+        "https://www.stratospheresocial.com/eldersburg/look-inside",
+        "https://www.stratospheresocial.com/eldersburg/hours",
+        "https://www.stratospheresocial.com/eldersburg/donation-requests",
+        "https://www.stratospheresocial.com/eldersburg/blog",
+        "https://www.stratospheresocial.com/eldersburg/contact-us",
+        "https://www.stratospheresocial.com/food-menu",
+        "https://www.stratospheresocial.com/wp-content/uploads/2024/12/7010a5_32a8428bba434f42a23697959ae76afcmv2.webp",
+        "https://www.stratospheresocial.com/wp-content/uploads/2024/12/7010a5_5efe7a91b3174b54ba85561a12240aacmv2.webp",
+        "https://www.stratospheresocial.com/wp-content/uploads/2024/12/7010a5_3bd3a068be70423b88c89aa0bc44ad5cmv2.webp",
+        "https://www.stratospheresocial.com/wp-content/uploads/2024/12/7010a5_57c4594aeef44801977902648889d267mv2.webp",
+        "https://www.stratospheresocial.com/wp-content/uploads/2024/12/7010a5_dd74d568923f4a47897cb9bc9078483emv2.webp",
+        "https://www.stratospheresocial.com/wp-content/uploads/2024/12/7010a5_19f84115438349a5821afa4c6b196949mv2.webp",
+        "https://www.stratospheresocial.com/wp-content/uploads/2024/12/7010a5_eb341a8c57d84999b592013addafc014mv2.webp",
+        "https://www.stratospheresocial.com/wp-content/uploads/2024/12/7010a5_f729732de3b4402c8ecb046bc6373949mv2.webp",
+        "https://www.stratospheresocial.com/birthday-party-packages",
+        "https://www.stratospheresocial.com/parties-events",
+        "https://www.stratospheresocial.com/attractions-specials",
+        "https://www.stratospheresocial.com/drink-menu",
+        "https://www.stratospheresocial.com/privacy-policy-2"
+      ],
+      "bookingTriggers": [
+        {
+          "id": "479ff141-ce70-4f17-bf63-63d482189181",
+          "text": "Facebook-f",
+          "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg",
+          "href": "https://www.facebook.com/StratosphereEldersburg",
+          "confidence": 0.4,
+          "dataAttributes": {
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+            "data-uw-rm-empty-ctrl": "",
+            "data-uw-rm-ext-link": ""
+          },
+          "triggerType": "link"
+        }
+      ],
+      "visitedAt": "2025-12-01T14:12:20.529Z",
+      "errors": []
+    },
+    {
+      "url": "https://www.stratospheresocial.com/eldersburg/events",
+      "title": "Upcoming Events | Stratosphere Social",
+      "internalLinks": [
+        "https://www.stratospheresocial.com/eldersburg",
+        "https://www.stratospheresocial.com/eldersburg/parties-events",
+        "https://www.stratospheresocial.com/eldersburg/attractions-specials",
+        "https://www.stratospheresocial.com/eldersburg/bowling",
+        "https://www.stratospheresocial.com/eldersburg/arcade",
+        "https://www.stratospheresocial.com/eldersburg/xd-theater",
+        "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+        "https://www.stratospheresocial.com/eldersburg/events",
+        "https://www.stratospheresocial.com/eldersburg/duelingpianos",
+        "https://www.stratospheresocial.com/eldersburg/trivia-night",
+        "https://www.stratospheresocial.com/eldersburg/brews-with-bites",
+        "https://www.stratospheresocial.com/eldersburg/new-years-eve",
+        "https://www.stratospheresocial.com/eldersburg/food-menu",
+        "https://www.stratospheresocial.com/eldersburg/drink-menu",
+        "https://www.stratospheresocial.com/eldersburg/join-our-team",
+        "https://www.stratospheresocial.com/eldersburg/community",
+        "https://www.stratospheresocial.com/hagerstown",
+        "https://www.stratospheresocial.com/eldersburg/look-inside",
+        "https://www.stratospheresocial.com/eldersburg/hours",
+        "https://www.stratospheresocial.com/eldersburg/donation-requests",
+        "https://www.stratospheresocial.com/eldersburg/blog",
+        "https://www.stratospheresocial.com/eldersburg/contact-us",
+        "https://www.stratospheresocial.com/pints-punts",
+        "https://www.stratospheresocial.com/axe-throwing",
+        "https://www.stratospheresocial.com/brews-with-bites",
+        "https://www.stratospheresocial.com/privacy-policy-2"
+      ],
+      "bookingTriggers": [
+        {
+          "id": "56feab1a-08a4-4f2d-8a65-78b9231c846c",
+          "text": "REGISTER",
+          "selector": "a.elementor-button.elementor-button-link.elementor-size-sm:has-text(\"REGISTER\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/events",
+          "href": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2026-02-08&guests=1",
+          "confidence": 0.8000000000000002,
+          "dataAttributes": {
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2026-02-08&guests=1",
+            "data-uw-rm-empty-ctrl": "",
+            "data-uw-rm-ext-link": ""
+          },
+          "triggerType": "link"
+        },
+        {
+          "id": "68879d6c-f29b-4403-96b8-be7df5603a0c",
+          "text": "Facebook-f",
+          "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/events",
+          "href": "https://www.facebook.com/StratosphereEldersburg",
+          "confidence": 0.4,
+          "dataAttributes": {
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+            "data-uw-rm-empty-ctrl": "",
+            "data-uw-rm-ext-link": ""
+          },
+          "triggerType": "link"
+        }
+      ],
+      "visitedAt": "2025-12-01T14:12:31.008Z",
+      "errors": []
+    },
+    {
+      "url": "https://www.stratospheresocial.com/eldersburg/parties-events",
+      "title": "Parties & Events | Stratosphere Social",
+      "internalLinks": [
+        "https://www.stratospheresocial.com/eldersburg",
+        "https://www.stratospheresocial.com/eldersburg/parties-events",
+        "https://www.stratospheresocial.com/eldersburg/attractions-specials",
+        "https://www.stratospheresocial.com/eldersburg/bowling",
+        "https://www.stratospheresocial.com/eldersburg/arcade",
+        "https://www.stratospheresocial.com/eldersburg/xd-theater",
+        "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+        "https://www.stratospheresocial.com/eldersburg/events",
+        "https://www.stratospheresocial.com/eldersburg/duelingpianos",
+        "https://www.stratospheresocial.com/eldersburg/trivia-night",
+        "https://www.stratospheresocial.com/eldersburg/brews-with-bites",
+        "https://www.stratospheresocial.com/eldersburg/new-years-eve",
+        "https://www.stratospheresocial.com/eldersburg/food-menu",
+        "https://www.stratospheresocial.com/eldersburg/drink-menu",
+        "https://www.stratospheresocial.com/eldersburg/join-our-team",
+        "https://www.stratospheresocial.com/eldersburg/community",
+        "https://www.stratospheresocial.com/hagerstown",
+        "https://www.stratospheresocial.com/eldersburg/look-inside",
+        "https://www.stratospheresocial.com/eldersburg/hours",
+        "https://www.stratospheresocial.com/eldersburg/donation-requests",
+        "https://www.stratospheresocial.com/eldersburg/blog",
+        "https://www.stratospheresocial.com/eldersburg/contact-us",
+        "https://www.stratospheresocial.com/book-now",
+        "https://www.stratospheresocial.com/eldersburg/birthday-party-packages",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_92f046ddf863437c87640e676aa41396mv2-2.avif",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_8c3f2b0ba1c341698ae8574defb256c7mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_18f06745a3154e68b57e1eb2408c7a65mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_0e98c79244ff4fc191ca92d25c6c858emv2-1.avif",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_6bd827c794de40618b47a8ea62047866mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_92f046ddf863437c87640e676aa41396mv2.avif",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2024/12/nerf-war-kids.avif",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/07/axe-throwing.jpg",
+        "https://www.stratospheresocial.com/eldersburg/parties-events-owings-mills-md",
+        "https://www.stratospheresocial.com/privacy-policy-2"
+      ],
+      "bookingTriggers": [
+        {
+          "id": "f3c202e6-d46f-4651-9839-431746af2392",
+          "text": "Book Now",
+          "selector": "a.elementor-button.elementor-button-link.elementor-size-sm:has-text(\"Book Now\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/parties-events",
+          "href": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2025-05-13&guests=1",
+          "confidence": 0.7500000000000001,
+          "dataAttributes": {
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2025-05-13&guests=1",
+            "data-uw-rm-empty-ctrl": ""
+          },
+          "triggerType": "link"
+        },
+        {
+          "id": "e2175aa5-c0e8-48d1-b9e8-3e133ff223ce",
+          "text": "Facebook-f",
+          "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/parties-events",
+          "href": "https://www.facebook.com/StratosphereEldersburg",
+          "confidence": 0.4,
+          "dataAttributes": {
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+            "data-uw-rm-empty-ctrl": "",
+            "data-uw-rm-ext-link": ""
+          },
+          "triggerType": "link"
+        },
+        {
+          "id": "12a0740d-6682-4249-a611-2c4ab7b424e9",
+          "text": "contact us",
+          "selector": "a.elementor-button.elementor-button-link.elementor-size-sm:has-text(\"contact us\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/parties-events",
+          "href": "https://www.stratospheresocial.com/book-now/",
+          "confidence": 0.39999999999999997,
+          "dataAttributes": {
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://www.stratospheresocial.com/book-now/",
+            "data-uw-rm-empty-ctrl": ""
+          },
+          "triggerType": "link"
+        }
+      ],
+      "visitedAt": "2025-12-01T14:12:39.524Z",
+      "errors": []
+    },
+    {
+      "url": "https://www.stratospheresocial.com/book-now",
+      "title": "Book Now | Stratosphere Social",
+      "internalLinks": [
+        "https://www.stratospheresocial.com/eldersburg",
+        "https://www.stratospheresocial.com/eldersburg/parties-events",
+        "https://www.stratospheresocial.com/eldersburg/attractions-specials",
+        "https://www.stratospheresocial.com/eldersburg/bowling",
+        "https://www.stratospheresocial.com/eldersburg/arcade",
+        "https://www.stratospheresocial.com/eldersburg/xd-theater",
+        "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+        "https://www.stratospheresocial.com/eldersburg/events",
+        "https://www.stratospheresocial.com/eldersburg/duelingpianos",
+        "https://www.stratospheresocial.com/eldersburg/trivia-night",
+        "https://www.stratospheresocial.com/eldersburg/brews-with-bites",
+        "https://www.stratospheresocial.com/eldersburg/new-years-eve",
+        "https://www.stratospheresocial.com/eldersburg/food-menu",
+        "https://www.stratospheresocial.com/eldersburg/drink-menu",
+        "https://www.stratospheresocial.com/eldersburg/join-our-team",
+        "https://www.stratospheresocial.com/eldersburg/community",
+        "https://www.stratospheresocial.com/hagerstown",
+        "https://www.stratospheresocial.com/eldersburg/look-inside",
+        "https://www.stratospheresocial.com/eldersburg/hours",
+        "https://www.stratospheresocial.com/eldersburg/donation-requests",
+        "https://www.stratospheresocial.com/eldersburg/blog",
+        "https://www.stratospheresocial.com/eldersburg/contact-us",
+        "https://www.stratospheresocial.com/privacy-policy-2"
+      ],
+      "bookingTriggers": [
+        {
+          "id": "e5411f72-9afe-4d0c-9faf-465f8db42fc9",
+          "text": "Facebook-f",
+          "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/book-now",
+          "href": "https://www.facebook.com/StratosphereEldersburg",
+          "confidence": 0.4,
+          "dataAttributes": {
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+            "data-uw-rm-empty-ctrl": "",
+            "data-uw-rm-ext-link": ""
+          },
+          "triggerType": "link"
+        }
+      ],
+      "visitedAt": "2025-12-01T14:12:48.295Z",
+      "errors": []
+    },
+    {
+      "url": "https://www.stratospheresocial.com/eldersburg/attractions-specials",
+      "title": "Attractions & Specials | Games & Entertainment | Stratosphere social",
+      "internalLinks": [
+        "https://www.stratospheresocial.com/eldersburg",
+        "https://www.stratospheresocial.com/eldersburg/parties-events",
+        "https://www.stratospheresocial.com/eldersburg/attractions-specials",
+        "https://www.stratospheresocial.com/eldersburg/bowling",
+        "https://www.stratospheresocial.com/eldersburg/arcade",
+        "https://www.stratospheresocial.com/eldersburg/xd-theater",
+        "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+        "https://www.stratospheresocial.com/eldersburg/events",
+        "https://www.stratospheresocial.com/eldersburg/duelingpianos",
+        "https://www.stratospheresocial.com/eldersburg/trivia-night",
+        "https://www.stratospheresocial.com/eldersburg/brews-with-bites",
+        "https://www.stratospheresocial.com/eldersburg/new-years-eve",
+        "https://www.stratospheresocial.com/eldersburg/food-menu",
+        "https://www.stratospheresocial.com/eldersburg/drink-menu",
+        "https://www.stratospheresocial.com/eldersburg/join-our-team",
+        "https://www.stratospheresocial.com/eldersburg/community",
+        "https://www.stratospheresocial.com/hagerstown",
+        "https://www.stratospheresocial.com/eldersburg/look-inside",
+        "https://www.stratospheresocial.com/eldersburg/hours",
+        "https://www.stratospheresocial.com/eldersburg/donation-requests",
+        "https://www.stratospheresocial.com/eldersburg/blog",
+        "https://www.stratospheresocial.com/eldersburg/contact-us",
+        "https://www.stratospheresocial.com/staycation",
+        "https://www.stratospheresocial.com/bowling",
+        "https://www.stratospheresocial.com/axe-throwing",
+        "https://www.stratospheresocial.com/xd-theater",
+        "https://www.stratospheresocial.com/arcade",
+        "https://www.stratospheresocial.com/book-now",
+        "https://www.stratospheresocial.com/trivia-night",
+        "https://www.stratospheresocial.com/privacy-policy-2"
+      ],
+      "bookingTriggers": [
+        {
+          "id": "1c41139e-ad15-4454-8684-8d50df7c08c5",
+          "text": "Facebook-f",
+          "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/attractions-specials",
+          "href": "https://www.facebook.com/StratosphereEldersburg",
+          "confidence": 0.4,
+          "dataAttributes": {
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+            "data-uw-rm-empty-ctrl": "",
+            "data-uw-rm-ext-link": ""
+          },
+          "triggerType": "link"
+        },
+        {
+          "id": "2eb8081f-0316-4135-b708-5c668961bb73",
+          "text": "Event inquiry",
+          "selector": "a.elementor-button.elementor-button-link.elementor-size-sm:has-text(\"Event inquiry\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/attractions-specials",
+          "href": "https://www.stratospheresocial.com/book-now/",
+          "confidence": 0.39999999999999997,
+          "dataAttributes": {
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://www.stratospheresocial.com/book-now/",
+            "data-uw-rm-empty-ctrl": ""
+          },
+          "triggerType": "link"
+        }
+      ],
+      "visitedAt": "2025-12-01T14:12:56.483Z",
+      "errors": []
+    },
+    {
+      "url": "https://www.stratospheresocial.com/eldersburg/bowling",
+      "title": "Bowling Alley in Eldersburg, Maryland | Stratosphere Social",
+      "internalLinks": [
+        "https://www.stratospheresocial.com/eldersburg",
+        "https://www.stratospheresocial.com/eldersburg/parties-events",
+        "https://www.stratospheresocial.com/eldersburg/attractions-specials",
+        "https://www.stratospheresocial.com/eldersburg/bowling",
+        "https://www.stratospheresocial.com/eldersburg/arcade",
+        "https://www.stratospheresocial.com/eldersburg/xd-theater",
+        "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+        "https://www.stratospheresocial.com/eldersburg/events",
+        "https://www.stratospheresocial.com/eldersburg/duelingpianos",
+        "https://www.stratospheresocial.com/eldersburg/trivia-night",
+        "https://www.stratospheresocial.com/eldersburg/brews-with-bites",
+        "https://www.stratospheresocial.com/eldersburg/new-years-eve",
+        "https://www.stratospheresocial.com/eldersburg/food-menu",
+        "https://www.stratospheresocial.com/eldersburg/drink-menu",
+        "https://www.stratospheresocial.com/eldersburg/join-our-team",
+        "https://www.stratospheresocial.com/eldersburg/community",
+        "https://www.stratospheresocial.com/hagerstown",
+        "https://www.stratospheresocial.com/eldersburg/look-inside",
+        "https://www.stratospheresocial.com/eldersburg/hours",
+        "https://www.stratospheresocial.com/eldersburg/donation-requests",
+        "https://www.stratospheresocial.com/eldersburg/blog",
+        "https://www.stratospheresocial.com/eldersburg/contact-us",
+        "https://www.stratospheresocial.com/duelingpianos",
+        "https://www.stratospheresocial.com/food-menu",
+        "https://www.stratospheresocial.com/birthday-party-packages",
+        "https://www.stratospheresocial.com/eldersburg/birthday-party-packages",
+        "https://www.stratospheresocial.com/privacy-policy-2"
+      ],
+      "bookingTriggers": [
+        {
+          "id": "e6b2ccc4-5509-456b-b50a-07bacd45cc32",
+          "text": "Facebook-f",
+          "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/bowling",
+          "href": "https://www.facebook.com/StratosphereEldersburg",
+          "confidence": 0.4,
+          "dataAttributes": {
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+            "data-uw-rm-empty-ctrl": "",
+            "data-uw-rm-ext-link": ""
+          },
+          "triggerType": "link"
+        }
+      ],
+      "visitedAt": "2025-12-01T14:13:05.241Z",
+      "errors": []
+    },
+    {
+      "url": "https://www.stratospheresocial.com/eldersburg/arcade",
+      "title": "Adult and Kids Arcade Near Me | Stratosphere Social",
+      "internalLinks": [
+        "https://www.stratospheresocial.com/eldersburg",
+        "https://www.stratospheresocial.com/eldersburg/parties-events",
+        "https://www.stratospheresocial.com/eldersburg/attractions-specials",
+        "https://www.stratospheresocial.com/eldersburg/bowling",
+        "https://www.stratospheresocial.com/eldersburg/arcade",
+        "https://www.stratospheresocial.com/eldersburg/xd-theater",
+        "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+        "https://www.stratospheresocial.com/eldersburg/events",
+        "https://www.stratospheresocial.com/eldersburg/duelingpianos",
+        "https://www.stratospheresocial.com/eldersburg/trivia-night",
+        "https://www.stratospheresocial.com/eldersburg/brews-with-bites",
+        "https://www.stratospheresocial.com/eldersburg/new-years-eve",
+        "https://www.stratospheresocial.com/eldersburg/food-menu",
+        "https://www.stratospheresocial.com/eldersburg/drink-menu",
+        "https://www.stratospheresocial.com/eldersburg/join-our-team",
+        "https://www.stratospheresocial.com/eldersburg/community",
+        "https://www.stratospheresocial.com/hagerstown",
+        "https://www.stratospheresocial.com/eldersburg/look-inside",
+        "https://www.stratospheresocial.com/eldersburg/hours",
+        "https://www.stratospheresocial.com/eldersburg/donation-requests",
+        "https://www.stratospheresocial.com/eldersburg/blog",
+        "https://www.stratospheresocial.com/eldersburg/contact-us",
+        "https://www.stratospheresocial.com/privacy-policy-2"
+      ],
+      "bookingTriggers": [
+        {
+          "id": "7454d695-81f6-47d4-9dec-dd223824a1fb",
+          "text": "Facebook-f",
+          "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/arcade",
+          "href": "https://www.facebook.com/StratosphereEldersburg",
+          "confidence": 0.4,
+          "dataAttributes": {
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+            "data-uw-rm-empty-ctrl": "",
+            "data-uw-rm-ext-link": ""
+          },
+          "triggerType": "link"
+        }
+      ],
+      "visitedAt": "2025-12-01T14:13:13.568Z",
+      "errors": []
+    },
+    {
+      "url": "https://www.stratospheresocial.com/eldersburg/xd-theater",
+      "title": "XD Immersive Theatre | Stratosphere Social",
+      "internalLinks": [
+        "https://www.stratospheresocial.com/eldersburg",
+        "https://www.stratospheresocial.com/eldersburg/parties-events",
+        "https://www.stratospheresocial.com/eldersburg/attractions-specials",
+        "https://www.stratospheresocial.com/eldersburg/bowling",
+        "https://www.stratospheresocial.com/eldersburg/arcade",
+        "https://www.stratospheresocial.com/eldersburg/xd-theater",
+        "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+        "https://www.stratospheresocial.com/eldersburg/events",
+        "https://www.stratospheresocial.com/eldersburg/duelingpianos",
+        "https://www.stratospheresocial.com/eldersburg/trivia-night",
+        "https://www.stratospheresocial.com/eldersburg/brews-with-bites",
+        "https://www.stratospheresocial.com/eldersburg/new-years-eve",
+        "https://www.stratospheresocial.com/eldersburg/food-menu",
+        "https://www.stratospheresocial.com/eldersburg/drink-menu",
+        "https://www.stratospheresocial.com/eldersburg/join-our-team",
+        "https://www.stratospheresocial.com/eldersburg/community",
+        "https://www.stratospheresocial.com/hagerstown",
+        "https://www.stratospheresocial.com/eldersburg/look-inside",
+        "https://www.stratospheresocial.com/eldersburg/hours",
+        "https://www.stratospheresocial.com/eldersburg/donation-requests",
+        "https://www.stratospheresocial.com/eldersburg/blog",
+        "https://www.stratospheresocial.com/eldersburg/contact-us",
+        "https://www.stratospheresocial.com/privacy-policy-2"
+      ],
+      "bookingTriggers": [
+        {
+          "id": "02433cce-e89c-4147-854e-46173b16953c",
+          "text": "Facebook-f",
+          "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/xd-theater",
+          "href": "https://www.facebook.com/StratosphereEldersburg",
+          "confidence": 0.4,
+          "dataAttributes": {
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+            "data-uw-rm-empty-ctrl": "",
+            "data-uw-rm-ext-link": ""
+          },
+          "triggerType": "link"
+        }
+      ],
+      "visitedAt": "2025-12-01T14:13:21.988Z",
+      "errors": []
+    },
+    {
+      "url": "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+      "title": "Axe Throwing - Eldersburg Maryland & Baltimore Metro Area",
+      "internalLinks": [
+        "https://www.stratospheresocial.com/eldersburg",
+        "https://www.stratospheresocial.com/eldersburg/parties-events",
+        "https://www.stratospheresocial.com/eldersburg/attractions-specials",
+        "https://www.stratospheresocial.com/eldersburg/bowling",
+        "https://www.stratospheresocial.com/eldersburg/arcade",
+        "https://www.stratospheresocial.com/eldersburg/xd-theater",
+        "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+        "https://www.stratospheresocial.com/eldersburg/events",
+        "https://www.stratospheresocial.com/eldersburg/duelingpianos",
+        "https://www.stratospheresocial.com/eldersburg/trivia-night",
+        "https://www.stratospheresocial.com/eldersburg/brews-with-bites",
+        "https://www.stratospheresocial.com/eldersburg/new-years-eve",
+        "https://www.stratospheresocial.com/eldersburg/food-menu",
+        "https://www.stratospheresocial.com/eldersburg/drink-menu",
+        "https://www.stratospheresocial.com/eldersburg/join-our-team",
+        "https://www.stratospheresocial.com/eldersburg/community",
+        "https://www.stratospheresocial.com/hagerstown",
+        "https://www.stratospheresocial.com/eldersburg/look-inside",
+        "https://www.stratospheresocial.com/eldersburg/hours",
+        "https://www.stratospheresocial.com/eldersburg/donation-requests",
+        "https://www.stratospheresocial.com/eldersburg/blog",
+        "https://www.stratospheresocial.com/eldersburg/contact-us",
+        "https://www.stratospheresocial.com/food-menu",
+        "https://www.stratospheresocial.com/book-now",
+        "https://www.stratospheresocial.com/privacy-policy-2"
+      ],
+      "bookingTriggers": [
+        {
+          "id": "e3aee2b1-b9c4-4e36-a7a1-4ced2831a401",
+          "text": "book now",
+          "selector": "a.elementor-button.elementor-button-link.elementor-size-sm:has-text(\"book now\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+          "href": "https://events.stratospheresocial.com/package?venue=Stratosphere",
+          "confidence": 0.8000000000000002,
+          "dataAttributes": {
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://events.stratospheresocial.com/package?venue=Stratosphere",
+            "data-uw-rm-empty-ctrl": "",
+            "data-uw-rm-ext-link": ""
+          },
+          "triggerType": "link"
+        },
+        {
+          "id": "04075cb4-cc64-480b-9406-76a34e48ff6e",
+          "text": "Corporate Events Treat your employees to a fun business outing.",
+          "selector": "a.elementor-element.elementor-element-64b6166.e-con-full:has-text(\"Corporate Events\t\t\t\t\n\t\t\t\t\n\t\t\t\t\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+          "href": "https://www.stratospheresocial.com/book-now/",
+          "confidence": 0.55,
+          "dataAttributes": {
+            "data-id": "64b6166",
+            "data-element_type": "container",
+            "data-settings": "{\"background_background\":\"classic\"}",
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://www.stratospheresocial.com/book-now/",
+            "data-uw-rm-empty-ctrl": ""
+          },
+          "triggerType": "link"
+        },
+        {
+          "id": "b90a0e51-2aa8-446b-8a91-498f0f73113a",
+          "text": "Facebook-f",
+          "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+          "href": "https://www.facebook.com/StratosphereEldersburg",
+          "confidence": 0.4,
+          "dataAttributes": {
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+            "data-uw-rm-empty-ctrl": "",
+            "data-uw-rm-ext-link": ""
+          },
+          "triggerType": "link"
+        },
+        {
+          "id": "483c6bea-de46-469d-af07-d8b1b0916f7e",
+          "text": "Birthday Parties What better way to celebrate your birthday than throwing axes?!",
+          "selector": "a.elementor-element.elementor-element-7d41b6b.e-con-full:has-text(\"Birthday Parties\t\t\t\t\n\t\t\t\t\n\t\t\t\t\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+          "href": "https://www.stratospheresocial.com/book-now/",
+          "confidence": 0.39999999999999997,
+          "dataAttributes": {
+            "data-id": "7d41b6b",
+            "data-element_type": "container",
+            "data-settings": "{\"background_background\":\"classic\"}",
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://www.stratospheresocial.com/book-now/",
+            "data-uw-rm-empty-ctrl": ""
+          },
+          "triggerType": "link"
+        },
+        {
+          "id": "42b65622-f173-462e-be93-dac9f34ba635",
+          "text": "Social Events Perfect for a group of friends looking for a fun and unique night out.",
+          "selector": "a.elementor-element.elementor-element-030dcdb.e-con-full:has-text(\"Social Events\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+          "href": "https://www.stratospheresocial.com/book-now/",
+          "confidence": 0.39999999999999997,
+          "dataAttributes": {
+            "data-id": "030dcdb",
+            "data-element_type": "container",
+            "data-settings": "{\"background_background\":\"classic\"}",
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://www.stratospheresocial.com/book-now/",
+            "data-uw-rm-empty-ctrl": ""
+          },
+          "triggerType": "link"
+        }
+      ],
+      "visitedAt": "2025-12-01T14:13:30.123Z",
+      "errors": []
+    },
+    {
+      "url": "https://www.stratospheresocial.com/eldersburg/duelingpianos",
+      "title": "Dueling Pianos | Stratosphere Social",
+      "internalLinks": [
+        "https://www.stratospheresocial.com/eldersburg",
+        "https://www.stratospheresocial.com/eldersburg/parties-events",
+        "https://www.stratospheresocial.com/eldersburg/attractions-specials",
+        "https://www.stratospheresocial.com/eldersburg/bowling",
+        "https://www.stratospheresocial.com/eldersburg/arcade",
+        "https://www.stratospheresocial.com/eldersburg/xd-theater",
+        "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+        "https://www.stratospheresocial.com/eldersburg/events",
+        "https://www.stratospheresocial.com/eldersburg/duelingpianos",
+        "https://www.stratospheresocial.com/eldersburg/trivia-night",
+        "https://www.stratospheresocial.com/eldersburg/brews-with-bites",
+        "https://www.stratospheresocial.com/eldersburg/new-years-eve",
+        "https://www.stratospheresocial.com/eldersburg/food-menu",
+        "https://www.stratospheresocial.com/eldersburg/drink-menu",
+        "https://www.stratospheresocial.com/eldersburg/join-our-team",
+        "https://www.stratospheresocial.com/eldersburg/community",
+        "https://www.stratospheresocial.com/hagerstown",
+        "https://www.stratospheresocial.com/eldersburg/look-inside",
+        "https://www.stratospheresocial.com/eldersburg/hours",
+        "https://www.stratospheresocial.com/eldersburg/donation-requests",
+        "https://www.stratospheresocial.com/eldersburg/blog",
+        "https://www.stratospheresocial.com/eldersburg/contact-us",
+        "https://www.stratospheresocial.com/food-menu",
+        "https://www.stratospheresocial.com/privacy-policy-2"
+      ],
+      "bookingTriggers": [
+        {
+          "id": "19b4b962-3635-44a8-8a51-e71524c0dd38",
+          "text": "Facebook-f",
+          "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/duelingpianos",
+          "href": "https://www.facebook.com/StratosphereEldersburg",
+          "confidence": 0.4,
+          "dataAttributes": {
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+            "data-uw-rm-empty-ctrl": "",
+            "data-uw-rm-ext-link": ""
+          },
+          "triggerType": "link"
+        }
+      ],
+      "visitedAt": "2025-12-01T14:13:38.491Z",
+      "errors": []
+    },
+    {
+      "url": "https://www.stratospheresocial.com/eldersburg/trivia-night",
+      "title": "Trivia Night | Stratosphere Social",
+      "internalLinks": [
+        "https://www.stratospheresocial.com/eldersburg",
+        "https://www.stratospheresocial.com/eldersburg/parties-events",
+        "https://www.stratospheresocial.com/eldersburg/attractions-specials",
+        "https://www.stratospheresocial.com/eldersburg/bowling",
+        "https://www.stratospheresocial.com/eldersburg/arcade",
+        "https://www.stratospheresocial.com/eldersburg/xd-theater",
+        "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+        "https://www.stratospheresocial.com/eldersburg/events",
+        "https://www.stratospheresocial.com/eldersburg/duelingpianos",
+        "https://www.stratospheresocial.com/eldersburg/trivia-night",
+        "https://www.stratospheresocial.com/eldersburg/brews-with-bites",
+        "https://www.stratospheresocial.com/eldersburg/new-years-eve",
+        "https://www.stratospheresocial.com/eldersburg/food-menu",
+        "https://www.stratospheresocial.com/eldersburg/drink-menu",
+        "https://www.stratospheresocial.com/eldersburg/join-our-team",
+        "https://www.stratospheresocial.com/eldersburg/community",
+        "https://www.stratospheresocial.com/hagerstown",
+        "https://www.stratospheresocial.com/eldersburg/look-inside",
+        "https://www.stratospheresocial.com/eldersburg/hours",
+        "https://www.stratospheresocial.com/eldersburg/donation-requests",
+        "https://www.stratospheresocial.com/eldersburg/blog",
+        "https://www.stratospheresocial.com/eldersburg/contact-us",
+        "https://www.stratospheresocial.com/drink-menu",
+        "https://www.stratospheresocial.com/privacy-policy-2"
+      ],
+      "bookingTriggers": [
+        {
+          "id": "e9494f84-86e9-4c22-b172-0a654a9b1d89",
+          "text": "Facebook-f",
+          "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/trivia-night",
+          "href": "https://www.facebook.com/StratosphereEldersburg",
+          "confidence": 0.4,
+          "dataAttributes": {
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+            "data-uw-rm-empty-ctrl": "",
+            "data-uw-rm-ext-link": ""
+          },
+          "triggerType": "link"
+        }
+      ],
+      "visitedAt": "2025-12-01T14:13:46.682Z",
+      "errors": []
+    },
+    {
+      "url": "https://www.stratospheresocial.com/eldersburg/brews-with-bites",
+      "title": "Craft Beer Dinner | Stratosphere Social",
+      "internalLinks": [
+        "https://www.stratospheresocial.com/eldersburg",
+        "https://www.stratospheresocial.com/eldersburg/parties-events",
+        "https://www.stratospheresocial.com/eldersburg/attractions-specials",
+        "https://www.stratospheresocial.com/eldersburg/bowling",
+        "https://www.stratospheresocial.com/eldersburg/arcade",
+        "https://www.stratospheresocial.com/eldersburg/xd-theater",
+        "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+        "https://www.stratospheresocial.com/eldersburg/events",
+        "https://www.stratospheresocial.com/eldersburg/duelingpianos",
+        "https://www.stratospheresocial.com/eldersburg/trivia-night",
+        "https://www.stratospheresocial.com/eldersburg/brews-with-bites",
+        "https://www.stratospheresocial.com/eldersburg/new-years-eve",
+        "https://www.stratospheresocial.com/eldersburg/food-menu",
+        "https://www.stratospheresocial.com/eldersburg/drink-menu",
+        "https://www.stratospheresocial.com/eldersburg/join-our-team",
+        "https://www.stratospheresocial.com/eldersburg/community",
+        "https://www.stratospheresocial.com/hagerstown",
+        "https://www.stratospheresocial.com/eldersburg/look-inside",
+        "https://www.stratospheresocial.com/eldersburg/hours",
+        "https://www.stratospheresocial.com/eldersburg/donation-requests",
+        "https://www.stratospheresocial.com/eldersburg/blog",
+        "https://www.stratospheresocial.com/eldersburg/contact-us",
+        "https://www.stratospheresocial.com/privacy-policy-2"
+      ],
+      "bookingTriggers": [
+        {
+          "id": "501cd89f-81f2-49af-a962-566654893d09",
+          "text": "TICKETS",
+          "selector": "a.elementor-button.elementor-button-link.elementor-size-sm:has-text(\"TICKETS\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/brews-with-bites",
+          "href": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2025-12-09&guests=1",
+          "confidence": 0.8000000000000002,
+          "dataAttributes": {
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2025-12-09&guests=1",
+            "data-uw-rm-empty-ctrl": "",
+            "data-uw-rm-ext-link": ""
+          },
+          "triggerType": "link"
+        },
+        {
+          "id": "eef94190-cf1b-442f-ac29-fd2c65831e52",
+          "text": "Facebook-f",
+          "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/brews-with-bites",
+          "href": "https://www.facebook.com/StratosphereEldersburg",
+          "confidence": 0.4,
+          "dataAttributes": {
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+            "data-uw-rm-empty-ctrl": "",
+            "data-uw-rm-ext-link": ""
+          },
+          "triggerType": "link"
+        }
+      ],
+      "visitedAt": "2025-12-01T14:13:54.847Z",
+      "errors": []
+    },
+    {
+      "url": "https://www.stratospheresocial.com/eldersburg/new-years-eve",
+      "title": "New Years Eve - Eldersburg Stratosphere Social",
+      "internalLinks": [
+        "https://www.stratospheresocial.com/eldersburg",
+        "https://www.stratospheresocial.com/eldersburg/parties-events",
+        "https://www.stratospheresocial.com/eldersburg/attractions-specials",
+        "https://www.stratospheresocial.com/eldersburg/bowling",
+        "https://www.stratospheresocial.com/eldersburg/arcade",
+        "https://www.stratospheresocial.com/eldersburg/xd-theater",
+        "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+        "https://www.stratospheresocial.com/eldersburg/events",
+        "https://www.stratospheresocial.com/eldersburg/duelingpianos",
+        "https://www.stratospheresocial.com/eldersburg/trivia-night",
+        "https://www.stratospheresocial.com/eldersburg/brews-with-bites",
+        "https://www.stratospheresocial.com/eldersburg/new-years-eve",
+        "https://www.stratospheresocial.com/eldersburg/food-menu",
+        "https://www.stratospheresocial.com/eldersburg/drink-menu",
+        "https://www.stratospheresocial.com/eldersburg/join-our-team",
+        "https://www.stratospheresocial.com/eldersburg/community",
+        "https://www.stratospheresocial.com/hagerstown",
+        "https://www.stratospheresocial.com/eldersburg/look-inside",
+        "https://www.stratospheresocial.com/eldersburg/hours",
+        "https://www.stratospheresocial.com/eldersburg/donation-requests",
+        "https://www.stratospheresocial.com/eldersburg/blog",
+        "https://www.stratospheresocial.com/eldersburg/contact-us",
+        "https://www.stratospheresocial.com/privacy-policy-2"
+      ],
+      "bookingTriggers": [
+        {
+          "id": "6b667257-e397-480e-84b5-f84045cbef96",
+          "text": "purchase tickets",
+          "selector": "a.elementor-button.elementor-button-link.elementor-size-sm:has-text(\"purchase tickets\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/new-years-eve",
+          "href": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2025-12-31&guests=1",
+          "confidence": 0.7500000000000001,
+          "dataAttributes": {
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2025-12-31&guests=1",
+            "data-uw-rm-empty-ctrl": ""
+          },
+          "triggerType": "link"
+        },
+        {
+          "id": "ae77f26d-c90c-46ab-bc75-23ba15d113f7",
+          "text": "Facebook-f",
+          "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/new-years-eve",
+          "href": "https://www.facebook.com/StratosphereEldersburg",
+          "confidence": 0.4,
+          "dataAttributes": {
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+            "data-uw-rm-empty-ctrl": "",
+            "data-uw-rm-ext-link": ""
+          },
+          "triggerType": "link"
+        },
+        {
+          "id": "0444be29-e2e1-44fd-a2ec-76422efb9b1e",
+          "text": "Grab your tickets now and let’s celebrate together!",
+          "selector": "a:has-text(\"Grab your tickets now and let’\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/new-years-eve",
+          "href": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2025-12-31&guests=1",
+          "confidence": 0.35,
+          "dataAttributes": {
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2025-12-31&guests=1"
+          },
+          "triggerType": "link"
+        }
+      ],
+      "visitedAt": "2025-12-01T14:14:03.290Z",
+      "errors": []
+    },
+    {
+      "url": "https://www.stratospheresocial.com/eldersburg/food-menu",
+      "title": "Local Family Restaurant & Bar | Stratosphere Social",
+      "internalLinks": [
+        "https://www.stratospheresocial.com/eldersburg",
+        "https://www.stratospheresocial.com/eldersburg/parties-events",
+        "https://www.stratospheresocial.com/eldersburg/attractions-specials",
+        "https://www.stratospheresocial.com/eldersburg/bowling",
+        "https://www.stratospheresocial.com/eldersburg/arcade",
+        "https://www.stratospheresocial.com/eldersburg/xd-theater",
+        "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+        "https://www.stratospheresocial.com/eldersburg/events",
+        "https://www.stratospheresocial.com/eldersburg/duelingpianos",
+        "https://www.stratospheresocial.com/eldersburg/trivia-night",
+        "https://www.stratospheresocial.com/eldersburg/brews-with-bites",
+        "https://www.stratospheresocial.com/eldersburg/new-years-eve",
+        "https://www.stratospheresocial.com/eldersburg/food-menu",
+        "https://www.stratospheresocial.com/eldersburg/drink-menu",
+        "https://www.stratospheresocial.com/eldersburg/join-our-team",
+        "https://www.stratospheresocial.com/eldersburg/community",
+        "https://www.stratospheresocial.com/hagerstown",
+        "https://www.stratospheresocial.com/eldersburg/look-inside",
+        "https://www.stratospheresocial.com/eldersburg/hours",
+        "https://www.stratospheresocial.com/eldersburg/donation-requests",
+        "https://www.stratospheresocial.com/eldersburg/blog",
+        "https://www.stratospheresocial.com/eldersburg/contact-us",
+        "https://www.stratospheresocial.com/drink-menu",
+        "https://www.stratospheresocial.com/privacy-policy-2"
+      ],
+      "bookingTriggers": [
+        {
+          "id": "9ede1173-c22d-46ce-b8dd-10ef928b4aa1",
+          "text": "Facebook-f",
+          "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/food-menu",
+          "href": "https://www.facebook.com/StratosphereEldersburg",
+          "confidence": 0.4,
+          "dataAttributes": {
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+            "data-uw-rm-empty-ctrl": "",
+            "data-uw-rm-ext-link": ""
+          },
+          "triggerType": "link"
+        }
+      ],
+      "visitedAt": "2025-12-01T14:14:11.518Z",
+      "errors": []
+    },
+    {
+      "url": "https://www.stratospheresocial.com/eldersburg/drink-menu",
+      "title": "Best Bar Restaurant Near Me | Stratosphere Social",
+      "internalLinks": [
+        "https://www.stratospheresocial.com/eldersburg",
+        "https://www.stratospheresocial.com/eldersburg/parties-events",
+        "https://www.stratospheresocial.com/eldersburg/attractions-specials",
+        "https://www.stratospheresocial.com/eldersburg/bowling",
+        "https://www.stratospheresocial.com/eldersburg/arcade",
+        "https://www.stratospheresocial.com/eldersburg/xd-theater",
+        "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+        "https://www.stratospheresocial.com/eldersburg/events",
+        "https://www.stratospheresocial.com/eldersburg/duelingpianos",
+        "https://www.stratospheresocial.com/eldersburg/trivia-night",
+        "https://www.stratospheresocial.com/eldersburg/brews-with-bites",
+        "https://www.stratospheresocial.com/eldersburg/new-years-eve",
+        "https://www.stratospheresocial.com/eldersburg/food-menu",
+        "https://www.stratospheresocial.com/eldersburg/drink-menu",
+        "https://www.stratospheresocial.com/eldersburg/join-our-team",
+        "https://www.stratospheresocial.com/eldersburg/community",
+        "https://www.stratospheresocial.com/hagerstown",
+        "https://www.stratospheresocial.com/eldersburg/look-inside",
+        "https://www.stratospheresocial.com/eldersburg/hours",
+        "https://www.stratospheresocial.com/eldersburg/donation-requests",
+        "https://www.stratospheresocial.com/eldersburg/blog",
+        "https://www.stratospheresocial.com/eldersburg/contact-us",
+        "https://www.stratospheresocial.com/privacy-policy-2"
+      ],
+      "bookingTriggers": [
+        {
+          "id": "bc59a4e1-4006-4174-b338-2bc43d9c643f",
+          "text": "Facebook-f",
+          "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/drink-menu",
+          "href": "https://www.facebook.com/StratosphereEldersburg",
+          "confidence": 0.4,
+          "dataAttributes": {
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+            "data-uw-rm-empty-ctrl": "",
+            "data-uw-rm-ext-link": ""
+          },
+          "triggerType": "link"
+        }
+      ],
+      "visitedAt": "2025-12-01T14:14:19.874Z",
+      "errors": []
+    },
+    {
+      "url": "https://www.stratospheresocial.com/eldersburg/join-our-team",
+      "title": "Join Our Team | Stratosphere Social",
+      "internalLinks": [
+        "https://www.stratospheresocial.com/eldersburg",
+        "https://www.stratospheresocial.com/eldersburg/parties-events",
+        "https://www.stratospheresocial.com/eldersburg/attractions-specials",
+        "https://www.stratospheresocial.com/eldersburg/bowling",
+        "https://www.stratospheresocial.com/eldersburg/arcade",
+        "https://www.stratospheresocial.com/eldersburg/xd-theater",
+        "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+        "https://www.stratospheresocial.com/eldersburg/events",
+        "https://www.stratospheresocial.com/eldersburg/duelingpianos",
+        "https://www.stratospheresocial.com/eldersburg/trivia-night",
+        "https://www.stratospheresocial.com/eldersburg/brews-with-bites",
+        "https://www.stratospheresocial.com/eldersburg/new-years-eve",
+        "https://www.stratospheresocial.com/eldersburg/food-menu",
+        "https://www.stratospheresocial.com/eldersburg/drink-menu",
+        "https://www.stratospheresocial.com/eldersburg/join-our-team",
+        "https://www.stratospheresocial.com/eldersburg/community",
+        "https://www.stratospheresocial.com/hagerstown",
+        "https://www.stratospheresocial.com/eldersburg/look-inside",
+        "https://www.stratospheresocial.com/eldersburg/hours",
+        "https://www.stratospheresocial.com/eldersburg/donation-requests",
+        "https://www.stratospheresocial.com/eldersburg/blog",
+        "https://www.stratospheresocial.com/eldersburg/contact-us",
+        "https://www.stratospheresocial.com/privacy-policy-2"
+      ],
+      "bookingTriggers": [
+        {
+          "id": "fe295da9-9ae4-4144-819a-264089cc4dee",
+          "text": "Facebook-f",
+          "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/join-our-team",
+          "href": "https://www.facebook.com/StratosphereEldersburg",
+          "confidence": 0.4,
+          "dataAttributes": {
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+            "data-uw-rm-empty-ctrl": "",
+            "data-uw-rm-ext-link": ""
+          },
+          "triggerType": "link"
+        }
+      ],
+      "visitedAt": "2025-12-01T14:14:28.144Z",
+      "errors": []
+    },
+    {
+      "url": "https://www.stratospheresocial.com/eldersburg/community",
+      "title": "COMMUNITY | Stratosphere Social",
+      "internalLinks": [
+        "https://www.stratospheresocial.com/eldersburg",
+        "https://www.stratospheresocial.com/eldersburg/parties-events",
+        "https://www.stratospheresocial.com/eldersburg/attractions-specials",
+        "https://www.stratospheresocial.com/eldersburg/bowling",
+        "https://www.stratospheresocial.com/eldersburg/arcade",
+        "https://www.stratospheresocial.com/eldersburg/xd-theater",
+        "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+        "https://www.stratospheresocial.com/eldersburg/events",
+        "https://www.stratospheresocial.com/eldersburg/duelingpianos",
+        "https://www.stratospheresocial.com/eldersburg/trivia-night",
+        "https://www.stratospheresocial.com/eldersburg/brews-with-bites",
+        "https://www.stratospheresocial.com/eldersburg/new-years-eve",
+        "https://www.stratospheresocial.com/eldersburg/food-menu",
+        "https://www.stratospheresocial.com/eldersburg/drink-menu",
+        "https://www.stratospheresocial.com/eldersburg/join-our-team",
+        "https://www.stratospheresocial.com/eldersburg/community",
+        "https://www.stratospheresocial.com/hagerstown",
+        "https://www.stratospheresocial.com/eldersburg/look-inside",
+        "https://www.stratospheresocial.com/eldersburg/hours",
+        "https://www.stratospheresocial.com/eldersburg/donation-requests",
+        "https://www.stratospheresocial.com/eldersburg/blog",
+        "https://www.stratospheresocial.com/eldersburg/contact-us",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_69072fea5f614c55ad8b65dedfa0da10mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_95d660fe98db43ac9e2b755dc557953dmv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_27c0b6e2d7e14690a1203d381fe62d22mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_10d601371ec74cb3810cee19f3f8fdafmv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_09bbefada95348b2828b1e46e2349492mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_5ed39876bd18417589cbdcf196a552c7mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_3f87cad7b0d84c38ad10a4edba17a52dmv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_3b62b7cdbd694d279fdc1f43929b0d89mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_f060c22e586841dab8c478585a293b03mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_f54e29efad6f4e6882f08fc88105df8bmv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_35802eb51a054422bdd7c0a89d3d261dmv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_38272e8d46024f1da7cbc02f5e817230mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_443659c49cf944b99d83b3b233d55360mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_b82fc0b184f341e59438bd68cea2dc65mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_c8bd10a3d42846568d69f2965392a363mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_c32ab68798f84edca2725c42847c3075mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_e9bde3d283b14772af7a801eabb2d1fbmv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_e300cb1c4c344ff29e5d427a0633c6f8mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_e939e2da29cf410a9673c1f943143b18mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_19108e8a56f44cbebaae91e3f1d8a1aemv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_7597dd1fede940f69982ed84da0f9f6bmv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_7471de961a534261b0f467aa9385c821mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_770d43c4ee964ab3991300de74ba967fmv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_412e8b0bf4b14552aa7080ea9a70dfcfmv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_253ecad713c24122ba7aec80aea676cdmv2.webp",
+        "https://www.stratospheresocial.com/privacy-policy-2"
+      ],
+      "bookingTriggers": [
+        {
+          "id": "d2e5967d-f0a4-42e8-ac01-f217d1706b2b",
+          "text": "Facebook-f",
+          "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/community",
+          "href": "https://www.facebook.com/StratosphereEldersburg",
+          "confidence": 0.4,
+          "dataAttributes": {
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+            "data-uw-rm-empty-ctrl": "",
+            "data-uw-rm-ext-link": ""
+          },
+          "triggerType": "link"
+        },
+        {
+          "id": "c2a99d3f-3fec-46da-a5d7-9d75452a4a01",
+          "text": "More info",
+          "selector": "a.elementor-button.elementor-button-link.elementor-size-sm:has-text(\"More info\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/community",
+          "href": "https://www.zeffy.com/en-US/ticketing/sundis-gift-basket-donation-drive?fbclid=IwY2xjawJmaQRleHRuA2FlbQIxMAABHvzrY9xjh1OW4Q3Hb1MJ1ibiYLL1i-NJCwfTBBmlkysM4lsMpvrjRotyHtZ2_aem_iXFUprOe9fa7fyimPRSVGA",
+          "confidence": 0.39999999999999997,
+          "dataAttributes": {
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://www.zeffy.com/en-US/ticketing/sundis-gift-basket-donation-drive?fbclid=IwY2xjawJmaQRleHRuA2FlbQIxMAABHvzrY9xjh1OW4Q3Hb1MJ1ibiYLL1i-NJCwfTBBmlkysM4lsMpvrjRotyHtZ2_aem_iXFUprOe9fa7fyimPRSVGA",
+            "data-uw-rm-empty-ctrl": "",
+            "data-uw-rm-ext-link": ""
+          },
+          "triggerType": "link"
+        }
+      ],
+      "visitedAt": "2025-12-01T14:14:36.305Z",
+      "errors": []
+    },
+    {
+      "url": "https://www.stratospheresocial.com/hagerstown",
+      "title": "Stratosphere Social Hagerstown | Events, Arcade, Sports Bar & Restaurant",
+      "internalLinks": [
+        "https://www.stratospheresocial.com/eldersburg",
+        "https://www.stratospheresocial.com/hagerstown",
+        "https://www.stratospheresocial.com/hagerstown?page_id=826",
+        "https://www.stratospheresocial.com/hagerstown?page_id=798",
+        "https://www.stratospheresocial.com/hagerstown?page_id=850",
+        "https://www.stratospheresocial.com/hagerstown?page_id=866",
+        "https://www.stratospheresocial.com/hagerstown?page_id=861",
+        "https://www.stratospheresocial.com/hagerstown?page_id=852",
+        "https://www.stratospheresocial.com/hagerstown?page_id=1445",
+        "https://www.stratospheresocial.com/hagerstown?page_id=1629",
+        "https://www.stratospheresocial.com/hagerstown?page_id=900",
+        "https://www.stratospheresocial.com/hagerstown?page_id=1638",
+        "https://www.stratospheresocial.com/hagerstown?page_id=824",
+        "https://www.stratospheresocial.com/hagerstown?page_id=1744",
+        "https://www.stratospheresocial.com/hagerstown?page_id=1887",
+        "https://www.stratospheresocial.com/hagerstown?page_id=1966",
+        "https://www.stratospheresocial.com/hagerstown?page_id=2127",
+        "https://www.stratospheresocial.com/hagerstown?page_id=1605",
+        "https://www.stratospheresocial.com/hagerstown?page_id=2824",
+        "https://www.stratospheresocial.com/hagerstown?page_id=2850",
+        "http://www.stratospheresocial.com/hagerstown/wp-content/uploads/sites/2/2025/06/476792163_979038944328546_319960028975169411_n.jpg",
+        "http://www.stratospheresocial.com/hagerstown/wp-content/uploads/sites/2/2025/06/481773082_995921949306912_2897198248734754022_n.jpg",
+        "http://www.stratospheresocial.com/hagerstown/wp-content/uploads/sites/2/2025/06/476928516_978562297709544_6034825978806839921_n.jpg",
+        "http://www.stratospheresocial.com/hagerstown/wp-content/uploads/sites/2/2025/06/499040629_1049519563947150_5896029733244771406_n.jpg",
+        "https://www.stratospheresocial.com/wp-content/uploads/2024/12/7010a5_dd74d568923f4a47897cb9bc9078483emv2.webp",
+        "http://www.stratospheresocial.com/hagerstown/wp-content/uploads/sites/2/2025/06/476298270_976400127925761_6596427844630014967_n.jpg",
+        "http://www.stratospheresocial.com/hagerstown/wp-content/uploads/sites/2/2025/06/465686006_18472105819040415_6323774435554785093_n.jpg",
+        "http://www.stratospheresocial.com/hagerstown/wp-content/uploads/sites/2/2025/06/475195576_18487944607040415_5694173742144350295_n.jpg",
+        "http://www.stratospheresocial.com/hagerstown/wp-content/uploads/sites/2/2025/06/475175530_18489452185040415_4457352433173458925_n.jpg",
+        "https://www.stratospheresocial.com/food-menu",
+        "https://www.stratospheresocial.com/drink-menu",
+        "https://www.stratospheresocial.com/privacy-policy-2"
+      ],
+      "bookingTriggers": [],
+      "visitedAt": "2025-12-01T14:14:44.842Z",
+      "errors": []
+    },
+    {
+      "url": "https://www.stratospheresocial.com/eldersburg/look-inside",
+      "title": "Take a Look Inside | Stratosphere Social",
+      "internalLinks": [
+        "https://www.stratospheresocial.com/eldersburg",
+        "https://www.stratospheresocial.com/eldersburg/parties-events",
+        "https://www.stratospheresocial.com/eldersburg/attractions-specials",
+        "https://www.stratospheresocial.com/eldersburg/bowling",
+        "https://www.stratospheresocial.com/eldersburg/arcade",
+        "https://www.stratospheresocial.com/eldersburg/xd-theater",
+        "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+        "https://www.stratospheresocial.com/eldersburg/events",
+        "https://www.stratospheresocial.com/eldersburg/duelingpianos",
+        "https://www.stratospheresocial.com/eldersburg/trivia-night",
+        "https://www.stratospheresocial.com/eldersburg/brews-with-bites",
+        "https://www.stratospheresocial.com/eldersburg/new-years-eve",
+        "https://www.stratospheresocial.com/eldersburg/food-menu",
+        "https://www.stratospheresocial.com/eldersburg/drink-menu",
+        "https://www.stratospheresocial.com/eldersburg/join-our-team",
+        "https://www.stratospheresocial.com/eldersburg/community",
+        "https://www.stratospheresocial.com/hagerstown",
+        "https://www.stratospheresocial.com/eldersburg/look-inside",
+        "https://www.stratospheresocial.com/eldersburg/hours",
+        "https://www.stratospheresocial.com/eldersburg/donation-requests",
+        "https://www.stratospheresocial.com/eldersburg/blog",
+        "https://www.stratospheresocial.com/eldersburg/contact-us",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_c817a7fc1da6409480f2403e96c78493mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_c58ec0195e7d4cfd9a16abf8757c4132mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_c8a6bf0cfff0483f95599a84787c3c20mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_ba9e88a3ccbe46a98dd5fa80e55b965amv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_b888a791924e4d359f2c4677f4a696b0mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_b6c43afaf4a1413f882c2066338c8f17mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_b4ebc81c967943509a7c4f13bf56cd75mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_af4883853dfa426aa73fae42b19b71a7mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_af763ea2805b43e1ad31633e24284558mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_aee6cea952074e17b36fbbb4e5fe6a8bmv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_ada6f871c2e34ac5afa420978988de06mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_547188ec97794066b50061be0ca80e45mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_2482686b8f67429896ce4a2abb66760fmv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_a7b52090c3d44c039dfa20b33d665af9mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_a24030d96adf4b789f4b3f883ec8aa38mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_a75607f268fa43d1bea048f499ccadacmv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_daf973894cc149259413720d7d0c79aemv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_181003dd7d554311b917971b06a6bac2mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_9399ed23f61245f8b660a132478f415cmv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_9083c1bfe13c42c1b3d94adbf3e42b9emv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_6754a64d70774da2b96e9fa22f2343a6mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_5804ff292a6e41cf891cb5be96001a42mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_8d8bd8cdc6fa4295baad36a2d04fb894mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_9ee183a483654b09860194399e00f086mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_9f45428c07054fd1a5d48900512ec13cmv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_19ae62787a894998a923c31ce0d6dcedmv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_30a17f6d6a224922aeab3063d5140294mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_34b81806011e4d51aeb6fc103f00854cmv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_40e232ce899c46408601e14c95fd472fmv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_439a5bcf53b3436fa7ab215bfb354d31mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_0810fee2b301417fae4d8516e20ad8dfmv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_8a91fc7db3ab40548d5d487b790e4ee0mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_6bd827c794de40618b47a8ea62047866mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_0e02a967b2074232afe2d2edc251ba07mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_2c67c1cc2fd4459880a94a3b01f637c5mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_3c10d8657c5d4e929120acbed70dbf2dmv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_3c422e799ed34353b008c38655148aeamv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_3cd66c766c5b4a0b9aad04eea195fd4amv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_4d7fac49188b4052bc44d3d6621320f2mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_4f83df9966a243b98548b3f4d7b8bd1dmv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_5dca71a044ca44dfb691b545a9b44252mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_5e4dd5d22055428393b07418a958b25emv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_feb8595ada0549d188b8eb7548ea7706mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_f6270427cb8a4298b308661e959a3089mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_f08da478976043809b713cd819d567f1mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_e62741dc799c433a9a425567364a5b65mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_e865e1a4473244c5a8d4fc57cc2385e7mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_e698e8507fad437e95acd4f7066c7a96mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_e68f3063ca5040ccb2e2479a3d038d2amv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_e7d0974ab71f456584ffd11045599cf2mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_e6dfde7923604e3b9f986848ce868ca4mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_e6b2346c6c894b3289e693767a12d833mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_de5a7009078948039256cff7d9b9a826mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_dd49bc06cc954493ab203ed1e5525b15mv2.webp",
+        "https://www.stratospheresocial.com/eldersburg/wp-content/uploads/sites/3/2025/01/7010a5_dcda15a6572548f7a7b8a8c22616704dmv2.webp",
+        "https://www.stratospheresocial.com/privacy-policy-2"
+      ],
+      "bookingTriggers": [
+        {
+          "id": "636c9062-be9a-4df0-8c5f-f2d3035ed5a0",
+          "text": "Facebook-f",
+          "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/look-inside",
+          "href": "https://www.facebook.com/StratosphereEldersburg",
+          "confidence": 0.4,
+          "dataAttributes": {
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+            "data-uw-rm-empty-ctrl": "",
+            "data-uw-rm-ext-link": ""
+          },
+          "triggerType": "link"
+        }
+      ],
+      "visitedAt": "2025-12-01T14:14:49.479Z",
+      "errors": []
+    },
+    {
+      "url": "https://www.stratospheresocial.com/eldersburg/hours",
+      "title": "HOURS | Stratosphere Social",
+      "internalLinks": [
+        "https://www.stratospheresocial.com/eldersburg",
+        "https://www.stratospheresocial.com/eldersburg/parties-events",
+        "https://www.stratospheresocial.com/eldersburg/attractions-specials",
+        "https://www.stratospheresocial.com/eldersburg/bowling",
+        "https://www.stratospheresocial.com/eldersburg/arcade",
+        "https://www.stratospheresocial.com/eldersburg/xd-theater",
+        "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+        "https://www.stratospheresocial.com/eldersburg/events",
+        "https://www.stratospheresocial.com/eldersburg/duelingpianos",
+        "https://www.stratospheresocial.com/eldersburg/trivia-night",
+        "https://www.stratospheresocial.com/eldersburg/brews-with-bites",
+        "https://www.stratospheresocial.com/eldersburg/new-years-eve",
+        "https://www.stratospheresocial.com/eldersburg/food-menu",
+        "https://www.stratospheresocial.com/eldersburg/drink-menu",
+        "https://www.stratospheresocial.com/eldersburg/join-our-team",
+        "https://www.stratospheresocial.com/eldersburg/community",
+        "https://www.stratospheresocial.com/hagerstown",
+        "https://www.stratospheresocial.com/eldersburg/look-inside",
+        "https://www.stratospheresocial.com/eldersburg/hours",
+        "https://www.stratospheresocial.com/eldersburg/donation-requests",
+        "https://www.stratospheresocial.com/eldersburg/blog",
+        "https://www.stratospheresocial.com/eldersburg/contact-us",
+        "https://www.stratospheresocial.com/privacy-policy-2"
+      ],
+      "bookingTriggers": [
+        {
+          "id": "560337de-1024-41ef-b635-16f42305bc54",
+          "text": "Facebook-f",
+          "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+          "tagName": "a",
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/hours",
+          "href": "https://www.facebook.com/StratosphereEldersburg",
+          "confidence": 0.4,
+          "dataAttributes": {
+            "data-uw-rm-brl": "PR",
+            "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+            "data-uw-rm-empty-ctrl": "",
+            "data-uw-rm-ext-link": ""
+          },
+          "triggerType": "link"
+        }
+      ],
+      "visitedAt": "2025-12-01T14:15:17.675Z",
+      "errors": []
+    }
+  ],
+  "triggers": [
+    {
+      "id": "479ff141-ce70-4f17-bf63-63d482189181",
+      "text": "Facebook-f",
+      "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg",
+      "href": "https://www.facebook.com/StratosphereEldersburg",
+      "confidence": 0.4,
+      "dataAttributes": {
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+        "data-uw-rm-empty-ctrl": "",
+        "data-uw-rm-ext-link": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "56feab1a-08a4-4f2d-8a65-78b9231c846c",
+      "text": "REGISTER",
+      "selector": "a.elementor-button.elementor-button-link.elementor-size-sm:has-text(\"REGISTER\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/events",
+      "href": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2026-02-08&guests=1",
+      "confidence": 0.8000000000000002,
+      "dataAttributes": {
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2026-02-08&guests=1",
+        "data-uw-rm-empty-ctrl": "",
+        "data-uw-rm-ext-link": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "68879d6c-f29b-4403-96b8-be7df5603a0c",
+      "text": "Facebook-f",
+      "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/events",
+      "href": "https://www.facebook.com/StratosphereEldersburg",
+      "confidence": 0.4,
+      "dataAttributes": {
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+        "data-uw-rm-empty-ctrl": "",
+        "data-uw-rm-ext-link": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "f3c202e6-d46f-4651-9839-431746af2392",
+      "text": "Book Now",
+      "selector": "a.elementor-button.elementor-button-link.elementor-size-sm:has-text(\"Book Now\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/parties-events",
+      "href": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2025-05-13&guests=1",
+      "confidence": 0.7500000000000001,
+      "dataAttributes": {
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2025-05-13&guests=1",
+        "data-uw-rm-empty-ctrl": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "e2175aa5-c0e8-48d1-b9e8-3e133ff223ce",
+      "text": "Facebook-f",
+      "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/parties-events",
+      "href": "https://www.facebook.com/StratosphereEldersburg",
+      "confidence": 0.4,
+      "dataAttributes": {
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+        "data-uw-rm-empty-ctrl": "",
+        "data-uw-rm-ext-link": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "12a0740d-6682-4249-a611-2c4ab7b424e9",
+      "text": "contact us",
+      "selector": "a.elementor-button.elementor-button-link.elementor-size-sm:has-text(\"contact us\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/parties-events",
+      "href": "https://www.stratospheresocial.com/book-now/",
+      "confidence": 0.39999999999999997,
+      "dataAttributes": {
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://www.stratospheresocial.com/book-now/",
+        "data-uw-rm-empty-ctrl": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "e5411f72-9afe-4d0c-9faf-465f8db42fc9",
+      "text": "Facebook-f",
+      "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/book-now",
+      "href": "https://www.facebook.com/StratosphereEldersburg",
+      "confidence": 0.4,
+      "dataAttributes": {
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+        "data-uw-rm-empty-ctrl": "",
+        "data-uw-rm-ext-link": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "1c41139e-ad15-4454-8684-8d50df7c08c5",
+      "text": "Facebook-f",
+      "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/attractions-specials",
+      "href": "https://www.facebook.com/StratosphereEldersburg",
+      "confidence": 0.4,
+      "dataAttributes": {
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+        "data-uw-rm-empty-ctrl": "",
+        "data-uw-rm-ext-link": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "2eb8081f-0316-4135-b708-5c668961bb73",
+      "text": "Event inquiry",
+      "selector": "a.elementor-button.elementor-button-link.elementor-size-sm:has-text(\"Event inquiry\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/attractions-specials",
+      "href": "https://www.stratospheresocial.com/book-now/",
+      "confidence": 0.39999999999999997,
+      "dataAttributes": {
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://www.stratospheresocial.com/book-now/",
+        "data-uw-rm-empty-ctrl": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "e6b2ccc4-5509-456b-b50a-07bacd45cc32",
+      "text": "Facebook-f",
+      "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/bowling",
+      "href": "https://www.facebook.com/StratosphereEldersburg",
+      "confidence": 0.4,
+      "dataAttributes": {
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+        "data-uw-rm-empty-ctrl": "",
+        "data-uw-rm-ext-link": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "7454d695-81f6-47d4-9dec-dd223824a1fb",
+      "text": "Facebook-f",
+      "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/arcade",
+      "href": "https://www.facebook.com/StratosphereEldersburg",
+      "confidence": 0.4,
+      "dataAttributes": {
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+        "data-uw-rm-empty-ctrl": "",
+        "data-uw-rm-ext-link": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "02433cce-e89c-4147-854e-46173b16953c",
+      "text": "Facebook-f",
+      "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/xd-theater",
+      "href": "https://www.facebook.com/StratosphereEldersburg",
+      "confidence": 0.4,
+      "dataAttributes": {
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+        "data-uw-rm-empty-ctrl": "",
+        "data-uw-rm-ext-link": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "e3aee2b1-b9c4-4e36-a7a1-4ced2831a401",
+      "text": "book now",
+      "selector": "a.elementor-button.elementor-button-link.elementor-size-sm:has-text(\"book now\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+      "href": "https://events.stratospheresocial.com/package?venue=Stratosphere",
+      "confidence": 0.8000000000000002,
+      "dataAttributes": {
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://events.stratospheresocial.com/package?venue=Stratosphere",
+        "data-uw-rm-empty-ctrl": "",
+        "data-uw-rm-ext-link": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "04075cb4-cc64-480b-9406-76a34e48ff6e",
+      "text": "Corporate Events Treat your employees to a fun business outing.",
+      "selector": "a.elementor-element.elementor-element-64b6166.e-con-full:has-text(\"Corporate Events\t\t\t\t\n\t\t\t\t\n\t\t\t\t\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+      "href": "https://www.stratospheresocial.com/book-now/",
+      "confidence": 0.55,
+      "dataAttributes": {
+        "data-id": "64b6166",
+        "data-element_type": "container",
+        "data-settings": "{\"background_background\":\"classic\"}",
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://www.stratospheresocial.com/book-now/",
+        "data-uw-rm-empty-ctrl": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "b90a0e51-2aa8-446b-8a91-498f0f73113a",
+      "text": "Facebook-f",
+      "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+      "href": "https://www.facebook.com/StratosphereEldersburg",
+      "confidence": 0.4,
+      "dataAttributes": {
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+        "data-uw-rm-empty-ctrl": "",
+        "data-uw-rm-ext-link": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "483c6bea-de46-469d-af07-d8b1b0916f7e",
+      "text": "Birthday Parties What better way to celebrate your birthday than throwing axes?!",
+      "selector": "a.elementor-element.elementor-element-7d41b6b.e-con-full:has-text(\"Birthday Parties\t\t\t\t\n\t\t\t\t\n\t\t\t\t\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+      "href": "https://www.stratospheresocial.com/book-now/",
+      "confidence": 0.39999999999999997,
+      "dataAttributes": {
+        "data-id": "7d41b6b",
+        "data-element_type": "container",
+        "data-settings": "{\"background_background\":\"classic\"}",
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://www.stratospheresocial.com/book-now/",
+        "data-uw-rm-empty-ctrl": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "42b65622-f173-462e-be93-dac9f34ba635",
+      "text": "Social Events Perfect for a group of friends looking for a fun and unique night out.",
+      "selector": "a.elementor-element.elementor-element-030dcdb.e-con-full:has-text(\"Social Events\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+      "href": "https://www.stratospheresocial.com/book-now/",
+      "confidence": 0.39999999999999997,
+      "dataAttributes": {
+        "data-id": "030dcdb",
+        "data-element_type": "container",
+        "data-settings": "{\"background_background\":\"classic\"}",
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://www.stratospheresocial.com/book-now/",
+        "data-uw-rm-empty-ctrl": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "19b4b962-3635-44a8-8a51-e71524c0dd38",
+      "text": "Facebook-f",
+      "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/duelingpianos",
+      "href": "https://www.facebook.com/StratosphereEldersburg",
+      "confidence": 0.4,
+      "dataAttributes": {
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+        "data-uw-rm-empty-ctrl": "",
+        "data-uw-rm-ext-link": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "e9494f84-86e9-4c22-b172-0a654a9b1d89",
+      "text": "Facebook-f",
+      "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/trivia-night",
+      "href": "https://www.facebook.com/StratosphereEldersburg",
+      "confidence": 0.4,
+      "dataAttributes": {
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+        "data-uw-rm-empty-ctrl": "",
+        "data-uw-rm-ext-link": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "501cd89f-81f2-49af-a962-566654893d09",
+      "text": "TICKETS",
+      "selector": "a.elementor-button.elementor-button-link.elementor-size-sm:has-text(\"TICKETS\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/brews-with-bites",
+      "href": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2025-12-09&guests=1",
+      "confidence": 0.8000000000000002,
+      "dataAttributes": {
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2025-12-09&guests=1",
+        "data-uw-rm-empty-ctrl": "",
+        "data-uw-rm-ext-link": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "eef94190-cf1b-442f-ac29-fd2c65831e52",
+      "text": "Facebook-f",
+      "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/brews-with-bites",
+      "href": "https://www.facebook.com/StratosphereEldersburg",
+      "confidence": 0.4,
+      "dataAttributes": {
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+        "data-uw-rm-empty-ctrl": "",
+        "data-uw-rm-ext-link": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "6b667257-e397-480e-84b5-f84045cbef96",
+      "text": "purchase tickets",
+      "selector": "a.elementor-button.elementor-button-link.elementor-size-sm:has-text(\"purchase tickets\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/new-years-eve",
+      "href": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2025-12-31&guests=1",
+      "confidence": 0.7500000000000001,
+      "dataAttributes": {
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2025-12-31&guests=1",
+        "data-uw-rm-empty-ctrl": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "ae77f26d-c90c-46ab-bc75-23ba15d113f7",
+      "text": "Facebook-f",
+      "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/new-years-eve",
+      "href": "https://www.facebook.com/StratosphereEldersburg",
+      "confidence": 0.4,
+      "dataAttributes": {
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+        "data-uw-rm-empty-ctrl": "",
+        "data-uw-rm-ext-link": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "0444be29-e2e1-44fd-a2ec-76422efb9b1e",
+      "text": "Grab your tickets now and let’s celebrate together!",
+      "selector": "a:has-text(\"Grab your tickets now and let’\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/new-years-eve",
+      "href": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2025-12-31&guests=1",
+      "confidence": 0.35,
+      "dataAttributes": {
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2025-12-31&guests=1"
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "9ede1173-c22d-46ce-b8dd-10ef928b4aa1",
+      "text": "Facebook-f",
+      "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/food-menu",
+      "href": "https://www.facebook.com/StratosphereEldersburg",
+      "confidence": 0.4,
+      "dataAttributes": {
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+        "data-uw-rm-empty-ctrl": "",
+        "data-uw-rm-ext-link": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "bc59a4e1-4006-4174-b338-2bc43d9c643f",
+      "text": "Facebook-f",
+      "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/drink-menu",
+      "href": "https://www.facebook.com/StratosphereEldersburg",
+      "confidence": 0.4,
+      "dataAttributes": {
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+        "data-uw-rm-empty-ctrl": "",
+        "data-uw-rm-ext-link": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "fe295da9-9ae4-4144-819a-264089cc4dee",
+      "text": "Facebook-f",
+      "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/join-our-team",
+      "href": "https://www.facebook.com/StratosphereEldersburg",
+      "confidence": 0.4,
+      "dataAttributes": {
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+        "data-uw-rm-empty-ctrl": "",
+        "data-uw-rm-ext-link": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "d2e5967d-f0a4-42e8-ac01-f217d1706b2b",
+      "text": "Facebook-f",
+      "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/community",
+      "href": "https://www.facebook.com/StratosphereEldersburg",
+      "confidence": 0.4,
+      "dataAttributes": {
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+        "data-uw-rm-empty-ctrl": "",
+        "data-uw-rm-ext-link": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "c2a99d3f-3fec-46da-a5d7-9d75452a4a01",
+      "text": "More info",
+      "selector": "a.elementor-button.elementor-button-link.elementor-size-sm:has-text(\"More info\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/community",
+      "href": "https://www.zeffy.com/en-US/ticketing/sundis-gift-basket-donation-drive?fbclid=IwY2xjawJmaQRleHRuA2FlbQIxMAABHvzrY9xjh1OW4Q3Hb1MJ1ibiYLL1i-NJCwfTBBmlkysM4lsMpvrjRotyHtZ2_aem_iXFUprOe9fa7fyimPRSVGA",
+      "confidence": 0.39999999999999997,
+      "dataAttributes": {
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://www.zeffy.com/en-US/ticketing/sundis-gift-basket-donation-drive?fbclid=IwY2xjawJmaQRleHRuA2FlbQIxMAABHvzrY9xjh1OW4Q3Hb1MJ1ibiYLL1i-NJCwfTBBmlkysM4lsMpvrjRotyHtZ2_aem_iXFUprOe9fa7fyimPRSVGA",
+        "data-uw-rm-empty-ctrl": "",
+        "data-uw-rm-ext-link": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "636c9062-be9a-4df0-8c5f-f2d3035ed5a0",
+      "text": "Facebook-f",
+      "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/look-inside",
+      "href": "https://www.facebook.com/StratosphereEldersburg",
+      "confidence": 0.4,
+      "dataAttributes": {
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+        "data-uw-rm-empty-ctrl": "",
+        "data-uw-rm-ext-link": ""
+      },
+      "triggerType": "link"
+    },
+    {
+      "id": "560337de-1024-41ef-b635-16f42305bc54",
+      "text": "Facebook-f",
+      "selector": "a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook-f:has-text(\"Facebook-f\")",
+      "tagName": "a",
+      "sourceUrl": "https://www.stratospheresocial.com/eldersburg/hours",
+      "href": "https://www.facebook.com/StratosphereEldersburg",
+      "confidence": 0.4,
+      "dataAttributes": {
+        "data-uw-rm-brl": "PR",
+        "data-uw-original-href": "https://www.facebook.com/StratosphereEldersburg",
+        "data-uw-rm-empty-ctrl": "",
+        "data-uw-rm-ext-link": ""
+      },
+      "triggerType": "link"
+    }
+  ]
+}

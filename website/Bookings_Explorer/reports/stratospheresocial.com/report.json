@@ -1,0 +1,99 @@
+{
+  "baseUrl": "https://www.stratospheresocial.com/eldersburg/",
+  "startedAt": "2025-12-01T14:12:20.461Z",
+  "completedAt": "2025-12-01T14:17:01.882Z",
+  "durationMs": 281421,
+  "config": {
+    "maxPages": 20,
+    "maxDepth": null,
+    "maxFlows": 0,
+    "headless": true,
+    "takeScreenshots": true
+  },
+  "stats": {
+    "pagesVisited": 20,
+    "triggersFound": 31,
+    "flowsExplored": 2,
+    "addOnsFound": 0,
+    "failedPages": 0
+  },
+  "bookings": [
+    {
+      "id": "1c3e8701-7535-45e0-8d5c-fd878127534b",
+      "name": "Stratosphere Social Event Reservations",
+      "description": null,
+      "entryPoints": [
+        {
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/events",
+          "triggerText": "REGISTER",
+          "triggerSelector": "a.elementor-button.elementor-button-link.elementor-size-sm:has-text(\"REGISTER\")",
+          "destinationUrl": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2026-02-08&guests=1"
+        }
+      ],
+      "flows": [
+        {
+          "flowType": "standard",
+          "groupSizeMode": "default",
+          "groupSize": null,
+          "steps": [
+            {
+              "stepOrder": 1,
+              "url": "https://www.stratospheresocial.com/eldersburg/events/",
+              "description": "Unknown step: Events",
+              "stepType": "unknown",
+              "availableOptions": {},
+              "addOns": [],
+              "formFields": [],
+              "screenshotPath": "/home/ross/projects/DRT/Booking/Bookings_Explorer/reports/stratospheresocial.com/screenshots/REGISTER-default-step1.png",
+              "errors": []
+            }
+          ],
+          "completed": false,
+          "terminationReason": null,
+          "explorationTimeMs": 11345
+        }
+      ],
+      "groupSizeConfig": null,
+      "discoveredAt": "2025-12-01T14:15:46.536Z"
+    },
+    {
+      "id": "d5793621-8d40-493d-80c4-ed4223422768",
+      "name": "Sundi's Gift Basket Donation Drive",
+      "description": "Join us for Sundi's Gift Basket Donation Drive, a fundraising event hosted by Sundis Gift Inc. Buy your ticket with Zeffy — 100% of proceeds go to Sundis Gift Inc.",
+      "entryPoints": [
+        {
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/community",
+          "triggerText": "More info",
+          "triggerSelector": "a.elementor-button.elementor-button-link.elementor-size-sm:has-text(\"More info\")",
+          "destinationUrl": "https://www.zeffy.com/en-US/ticketing/sundis-gift-basket-donation-drive?fbclid=IwY2xjawJmaQRleHRuA2FlbQIxMAABHvzrY9xjh1OW4Q3Hb1MJ1ibiYLL1i-NJCwfTBBmlkysM4lsMpvrjRotyHtZ2_aem_iXFUprOe9fa7fyimPRSVGA"
+        }
+      ],
+      "flows": [
+        {
+          "flowType": "standard",
+          "groupSizeMode": "default",
+          "groupSize": null,
+          "steps": [
+            {
+              "stepOrder": 1,
+              "url": "https://www.stratospheresocial.com/eldersburg/community/",
+              "description": "Unknown step: STRAT IN THE COMMUNITY",
+              "stepType": "unknown",
+              "availableOptions": {},
+              "addOns": [],
+              "formFields": [],
+              "screenshotPath": "/home/ross/projects/DRT/Booking/Bookings_Explorer/reports/stratospheresocial.com/screenshots/More info-default-step1.png",
+              "errors": []
+            }
+          ],
+          "completed": false,
+          "terminationReason": null,
+          "explorationTimeMs": 13874
+        }
+      ],
+      "groupSizeConfig": null,
+      "discoveredAt": "2025-12-01T14:16:21.458Z"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,707 @@
+[
+  {
+    "url": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2025-12-01&guests=1",
+    "venueName": "1332 Londontown BlvdEldersburg, MD 21784",
+    "platform": null,
+    "categories": [
+      "Party Packages",
+      "Axe Reservations",
+      "Events"
+    ],
+    "packages": [
+      {
+        "id": "211e4dc9-5086-42bd-aaec-60eaa597e3c0",
+        "name": "Strike Package",
+        "category": "Party Packages, Axe Reservations, Events",
+        "description": null,
+        "tagline": null,
+        "inclusions": [
+          {
+            "item": "shoes",
+            "quantity": null,
+            "category": "equipment",
+            "details": null
+          },
+          {
+            "item": "party host",
+            "quantity": "party ",
+            "category": "service",
+            "details": null
+          },
+          {
+            "item": "minute arcade game card or $20 Cash Game Card Unlimited games of Virtual Reality or XD Theater500 E",
+            "quantity": null,
+            "category": "activity",
+            "details": null
+          },
+          {
+            "item": "Tickets for prize redemption OR Favor bags (add both for $6 per guest)2 one",
+            "quantity": null,
+            "category": "tickets",
+            "details": null
+          }
+        ],
+        "pricing": {
+          "basePrice": "$489.00",
+          "dayPricing": [],
+          "perPersonPrice": "$6",
+          "minimumSpend": null,
+          "depositRequired": null,
+          "notes": [],
+          "currency": "$"
+        },
+        "guestConfig": {
+          "includedGuests": null,
+          "minimumGuests": null,
+          "maximumGuests": null,
+          "additionalGuestPrice": null,
+          "guestCategories": []
+        },
+        "duration": "4 Hours",
+        "availableAddOns": [],
+        "restrictions": [],
+        "availableTimeSlots": [],
+        "imageUrl": "https://assets.reservewithrex.com/1644365993498.jpeg",
+        "bookingUrl": null,
+        "sourceUrl": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2026-01-17&guests=1",
+        "screenshotPath": "/home/ross/projects/DRT/Booking/Bookings_Explorer/reports/screenshots/package-0-strike-package.png",
+        "rawContent": "Strike Package$489.00fromStrike Package10-15 Guests4 Hours10 Guests (Including Guest of Honor)Additional Guests: $40 eachPrice does not include tax. A 20% service charge will be added upon checkout.WHAT'S INCLUDED:1 hour of bowling + shoesChoice of 90-minute arcade game card or $20 Cash Game Card Unlimited games of Virtual Reality or XD Theater500 E-Tickets for prize redemption OR Favor bags (add both for $6 per guest)2 one-topping 16\" pizzasBeverage pitchersDedicated party hostParty supplies (tablecloth, plates, cups, napkins, utensils)$20 arcade game card for Guest of Honor (for future use)$5 arcade game card for each guest (for future visit)Reservation DetailsSelect Date Saturday, January 17Guests ​Select a package to view availability. If there are no available times, please try another day."
+      },
+      {
+        "id": "f7cb0557-9c07-47cd-b706-0ef21bfbaae0",
+        "name": "Spare Package",
+        "category": "Party Packages, Axe Reservations, Events",
+        "description": null,
+        "tagline": null,
+        "inclusions": [
+          {
+            "item": "shoes",
+            "quantity": null,
+            "category": "equipment",
+            "details": null
+          },
+          {
+            "item": "party host",
+            "quantity": "party ",
+            "category": "service",
+            "details": null
+          },
+          {
+            "item": "minute arcade game card or $15 Cash Game Card 1 game of Virtual Reality or XD Theater250 E",
+            "quantity": null,
+            "category": "activity",
+            "details": null
+          },
+          {
+            "item": "Tickets for prize redemption2 one",
+            "quantity": null,
+            "category": "tickets",
+            "details": null
+          }
+        ],
+        "pricing": {
+          "basePrice": "$389.00",
+          "dayPricing": [],
+          "perPersonPrice": null,
+          "minimumSpend": null,
+          "depositRequired": null,
+          "notes": [],
+          "currency": "$"
+        },
+        "guestConfig": {
+          "includedGuests": null,
+          "minimumGuests": null,
+          "maximumGuests": null,
+          "additionalGuestPrice": null,
+          "guestCategories": []
+        },
+        "duration": "3 Hours",
+        "availableAddOns": [],
+        "restrictions": [],
+        "availableTimeSlots": [],
+        "imageUrl": "https://assets.reservewithrex.com/1644366000967.jpeg",
+        "bookingUrl": null,
+        "sourceUrl": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2026-01-17&guests=1",
+        "screenshotPath": "/home/ross/projects/DRT/Booking/Bookings_Explorer/reports/screenshots/package-1-spare-package.png",
+        "rawContent": "Spare Package$389.00fromSpare Package10-15 Guests3 Hours10 Guests (Including Guest of Honor)Additional Guests: $30 eachPrice does not include tax. A 20% service charge will be added upon checkout.WHAT'S INCLUDED:1 hour of bowling + shoesChoice of 60-minute arcade game card or $15 Cash Game Card 1 game of Virtual Reality or XD Theater250 E-Tickets for prize redemption2 one-topping 16\" pizzasBeverage pitchersDedicated party hostParty supplies (tablecloth, plates, cups, napkins, utensils)$15 arcade game card for Guest of Honor (for future use)$5 arcade game card for each guest (for future visit)Reservation DetailsSelect Date Saturday, January 17Guests ​Select a package to view availability. If there are no available times, please try another day."
+      },
+      {
+        "id": "1aaf5c32-616b-4429-a10d-a054a3e5ee0e",
+        "name": "Split Package",
+        "category": "Party Packages, Axe Reservations, Events",
+        "description": null,
+        "tagline": null,
+        "inclusions": [
+          {
+            "item": "shoes",
+            "quantity": null,
+            "category": "equipment",
+            "details": null
+          },
+          {
+            "item": "party host",
+            "quantity": "party ",
+            "category": "service",
+            "details": null
+          },
+          {
+            "item": "minute arcade game card or $15 Cash Game Card 100 E",
+            "quantity": null,
+            "category": "activity",
+            "details": null
+          },
+          {
+            "item": "Tickets for prize redemption per guest2 one",
+            "quantity": null,
+            "category": "tickets",
+            "details": null
+          }
+        ],
+        "pricing": {
+          "basePrice": "$339.00",
+          "dayPricing": [],
+          "perPersonPrice": null,
+          "minimumSpend": null,
+          "depositRequired": null,
+          "notes": [],
+          "currency": "$"
+        },
+        "guestConfig": {
+          "includedGuests": null,
+          "minimumGuests": null,
+          "maximumGuests": null,
+          "additionalGuestPrice": null,
+          "guestCategories": []
+        },
+        "duration": "3 Hours",
+        "availableAddOns": [],
+        "restrictions": [],
+        "availableTimeSlots": [],
+        "imageUrl": "https://assets.reservewithrex.com/1644366008720.jpeg",
+        "bookingUrl": null,
+        "sourceUrl": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2026-01-17&guests=1",
+        "screenshotPath": "/home/ross/projects/DRT/Booking/Bookings_Explorer/reports/screenshots/package-2-split-package.png",
+        "rawContent": "Split Package$339.00from Split Package10-15 Guests3 Hours10 Guests (Including Guest of Honor)Additional Guests: $25 eachPrice does not include tax. A 20% service charge will be added upon checkout.WHAT'S INCLUDED:1 hour of bowling + shoesChoice of 60-minute arcade game card or $15 Cash Game Card 100 E-Tickets for prize redemption per guest2 one-topping 16\" pizzasBeverage pitchersDedicated party hostParty supplies (tablecloth, plates, cups, napkins, utensils)$10 arcade game card for Guest of Honor (for future use)$5 arcade game card for each guest (for future visit)Reservation DetailsSelect Date Saturday, January 17Guests ​Select a package to view availability. If there are no available times, please try another day."
+      },
+      {
+        "id": "ea0879b5-4483-4921-b43d-744124308476",
+        "name": "Axe & Bowl Combo Package",
+        "category": "Party Packages, Axe Reservations, Events",
+        "description": "Axe & Bowl Combo Package",
+        "tagline": null,
+        "inclusions": [
+          {
+            "item": "30 minute arcade",
+            "quantity": "30",
+            "category": "activity",
+            "details": null
+          },
+          {
+            "item": "arcade card",
+            "quantity": "arcade",
+            "category": "activity",
+            "details": null
+          },
+          {
+            "item": "Bowling Shoe Rental",
+            "quantity": "Bowling ",
+            "category": "equipment",
+            "details": null
+          }
+        ],
+        "pricing": {
+          "basePrice": "$50.00",
+          "dayPricing": [],
+          "perPersonPrice": null,
+          "minimumSpend": null,
+          "depositRequired": null,
+          "notes": [],
+          "currency": "$"
+        },
+        "guestConfig": {
+          "includedGuests": null,
+          "minimumGuests": null,
+          "maximumGuests": null,
+          "additionalGuestPrice": null,
+          "guestCategories": []
+        },
+        "duration": "3 Hours",
+        "availableAddOns": [],
+        "restrictions": [],
+        "availableTimeSlots": [],
+        "imageUrl": "https://assets.reservewithrex.com/1644359299844.jpeg",
+        "bookingUrl": null,
+        "sourceUrl": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2026-01-17&guests=1",
+        "screenshotPath": "/home/ross/projects/DRT/Booking/Bookings_Explorer/reports/screenshots/package-3-axe-bowl-combo-package.png",
+        "rawContent": "Axe & Bowl Combo Package$50.00from/personAll participants must be 16 or older.10-18 Guests3 HoursWHAT'S INCLUDED:1 Hour of Axe Throwing1 Hour of BowlingBowling Shoe Rentals30 minute arcade card per person 1 game of Virtual Reality or XD Theater per personFood & drink packages are available to add to your event.Reservation DetailsSelect Date Saturday, January 17Guests ​Select a package to view availability. If there are no available times, please try another day."
+      },
+      {
+        "id": "6cb7b67d-ac24-4544-a2aa-1043866782a6",
+        "name": "Nerf War Party",
+        "category": "Party Packages, Axe Reservations, Events",
+        "description": "2.5 Hour nerf war party",
+        "tagline": null,
+        "inclusions": [
+          {
+            "item": "60 minutes arcade",
+            "quantity": "60",
+            "category": "activity",
+            "details": null
+          },
+          {
+            "item": "arcade card",
+            "quantity": "arcade",
+            "category": "activity",
+            "details": null
+          },
+          {
+            "item": "Unlimited soda",
+            "quantity": "Unlimited",
+            "category": "drink",
+            "details": null
+          },
+          {
+            "item": "party host",
+            "quantity": "party ",
+            "category": "service",
+            "details": null
+          }
+        ],
+        "pricing": {
+          "basePrice": "$489.00",
+          "dayPricing": [],
+          "perPersonPrice": null,
+          "minimumSpend": null,
+          "depositRequired": null,
+          "notes": [],
+          "currency": "$"
+        },
+        "guestConfig": {
+          "includedGuests": null,
+          "minimumGuests": null,
+          "maximumGuests": null,
+          "additionalGuestPrice": null,
+          "guestCategories": []
+        },
+        "duration": "2.5 Hours",
+        "availableAddOns": [],
+        "restrictions": [],
+        "availableTimeSlots": [],
+        "imageUrl": "https://assets.reservewithrex.com/1660318988381.jpeg",
+        "bookingUrl": null,
+        "sourceUrl": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2026-01-17&guests=1",
+        "screenshotPath": "/home/ross/projects/DRT/Booking/Bookings_Explorer/reports/screenshots/package-4-nerf-war-party.png",
+        "rawContent": "Nerf War Party$489.00from2.5 Hour nerf war party10-12 Guests3 Hours10 Guests (including Guest of Honor)Additional Guests: $40 eachPrice does not include tax. A 20% service charge will be added upon checkout.WHAT'S INCLUDED:1 hour Nerf War (Goggles and darts are included. Kids must bring their own guns.)60 minutes arcade card per guest200 redemption tickets2 one-topping pizzasUnlimited soda pitchersDedicated party hostParty supplies (tablecloth, plates, napkins, utensils)$15 arcade player card for guest of honor (future visit)$5 arcade player card for each guest (future visit)Reservation DetailsSelect Date Saturday, January 17Guests ​Select a package to view availability. If there are no available times, please try another day."
+      },
+      {
+        "id": "ba0e66a2-ef9b-43a5-aadf-5b82bbda287f",
+        "name": "Supercharged Game Zone Party",
+        "category": "Party Packages, Axe Reservations, Events",
+        "description": "Supercharged Game Zone Party",
+        "tagline": null,
+        "inclusions": [
+          {
+            "item": "120 minutes arcade",
+            "quantity": "120",
+            "category": "activity",
+            "details": null
+          },
+          {
+            "item": "arcade card",
+            "quantity": "arcade",
+            "category": "activity",
+            "details": null
+          },
+          {
+            "item": "Unlimited soda",
+            "quantity": "Unlimited",
+            "category": "drink",
+            "details": null
+          },
+          {
+            "item": "party host",
+            "quantity": "party ",
+            "category": "service",
+            "details": null
+          },
+          {
+            "item": "Tickets for prize redemption per guest2 one",
+            "quantity": null,
+            "category": "tickets",
+            "details": null
+          }
+        ],
+        "pricing": {
+          "basePrice": "$440.00",
+          "dayPricing": [],
+          "perPersonPrice": null,
+          "minimumSpend": null,
+          "depositRequired": null,
+          "notes": [],
+          "currency": "$"
+        },
+        "guestConfig": {
+          "includedGuests": null,
+          "minimumGuests": null,
+          "maximumGuests": null,
+          "additionalGuestPrice": null,
+          "guestCategories": []
+        },
+        "duration": "3 Hours",
+        "availableAddOns": [],
+        "restrictions": [],
+        "availableTimeSlots": [],
+        "imageUrl": "https://assets.reservewithrex.com/1644365906373.jpeg",
+        "bookingUrl": null,
+        "sourceUrl": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2026-01-17&guests=1",
+        "screenshotPath": "/home/ross/projects/DRT/Booking/Bookings_Explorer/reports/screenshots/package-5-supercharged-game-zone-party.png",
+        "rawContent": "Supercharged Game Zone Party$440.00from10 Guests (including Guest of Honor)10-12 Guests3 Hours10 Guests (including Guest of Honor)Additional Guests: $25 eachPrice does not include tax. A 20% service charge will be added upon checkout.WHAT'S INCLUDED:120 minutes arcade card per guest2 hours unlimited Virtual Reality or XD Theater per guest200 E-Tickets for prize redemption per guest2 one-topping pizzasUnlimited soda pitchersDedicated party hostParty supplies (tablecloth, plates, napkins, utensils)$10 arcade player card for guest of honor (future visit)$5 arcade player card for each guest (future visit)Reservation DetailsSelect Date Saturday, January 17Guests ​Select a package to view availability. If there are no available times, please try another day."
+      },
+      {
+        "id": "7913f3e1-8028-4242-add9-8e1bf9a8b353",
+        "name": "Karaoke Party",
+        "category": "Party Packages, Axe Reservations, Events",
+        "description": "Private Karaoke in the Greenhouse",
+        "tagline": null,
+        "inclusions": [
+          {
+            "item": "Party Host",
+            "quantity": "Party ",
+            "category": "service",
+            "details": null
+          },
+          {
+            "item": "15 Guests3 HoursPrivate Karaoke in our Greenhouse for up to 15 peopleIncludes 30",
+            "quantity": null,
+            "category": "time",
+            "details": null
+          },
+          {
+            "item": "minute game card per person Tuesday through Thursday:$250 for 2 hours (Option for Additional Hour",
+            "quantity": null,
+            "category": "activity",
+            "details": null
+          },
+          {
+            "item": "$100)Friday",
+            "quantity": null,
+            "category": "other",
+            "details": null
+          },
+          {
+            "item": "Sunday:",
+            "quantity": null,
+            "category": "other",
+            "details": null
+          },
+          {
+            "item": "$300 for 2 hours (Option for Additional Hour",
+            "quantity": null,
+            "category": "time",
+            "details": null
+          },
+          {
+            "item": "$125)Package must be booked in advance – No walk",
+            "quantity": null,
+            "category": "other",
+            "details": null
+          },
+          {
+            "item": "ins.",
+            "quantity": null,
+            "category": "other",
+            "details": null
+          },
+          {
+            "item": "Cost listed is pre",
+            "quantity": null,
+            "category": "other",
+            "details": null
+          },
+          {
+            "item": "tax and Service Charge",
+            "quantity": null,
+            "category": "other",
+            "details": null
+          }
+        ],
+        "pricing": {
+          "basePrice": "$250.00",
+          "dayPricing": [],
+          "perPersonPrice": null,
+          "minimumSpend": null,
+          "depositRequired": null,
+          "notes": [],
+          "currency": "$"
+        },
+        "guestConfig": {
+          "includedGuests": 15,
+          "minimumGuests": null,
+          "maximumGuests": 15,
+          "additionalGuestPrice": null,
+          "guestCategories": []
+        },
+        "duration": "3 Hours",
+        "availableAddOns": [],
+        "restrictions": [],
+        "availableTimeSlots": [],
+        "imageUrl": "https://assets.reservewithrex.com/1747156364475.png",
+        "bookingUrl": null,
+        "sourceUrl": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2026-01-17&guests=1",
+        "screenshotPath": "/home/ross/projects/DRT/Booking/Bookings_Explorer/reports/screenshots/package-6-karaoke-party.png",
+        "rawContent": "Karaoke Party$250.00fromPrivate Karaoke in the Greenhouse1-15 Guests3 HoursPrivate Karaoke in our Greenhouse for up to 15 peopleIncludes 30-minute game card per person Tuesday through Thursday:$250 for 2 hours (Option for Additional Hour - $100)Friday - Sunday: - $300 for 2 hours (Option for Additional Hour - $125)Package must be booked in advance – No walk-ins.*Cost listed is pre-tax and Service Charge *20% Service Charge for your Party Host Reservation DetailsSelect Date Saturday, January 17Guests 1Select a package to view availability. If there are no available times, please try another day."
+      },
+      {
+        "id": "9933a646-f1fe-4e3b-999c-cd1a97bfa781",
+        "name": "Themed Karaoke Party",
+        "category": "Party Packages, Axe Reservations, Events",
+        "description": "Private Themed Karaoke in the Greenhouse: Taylor Swift, KPop Demon Hunters or Wicked",
+        "tagline": null,
+        "inclusions": [
+          {
+            "item": "Unlimited soda",
+            "quantity": "Unlimited",
+            "category": "drink",
+            "details": null
+          },
+          {
+            "item": "Please notate your choice when booking)Up to 10 Guests 2 cheese pizzas Unlimited soda pitchers 30",
+            "quantity": null,
+            "category": "food",
+            "details": null
+          },
+          {
+            "item": "off card for guest of honor and guests (for future visit)",
+            "quantity": null,
+            "category": "other",
+            "details": null
+          },
+          {
+            "item": "Max is 15 Guests",
+            "quantity": null,
+            "category": "other",
+            "details": null
+          },
+          {
+            "item": "each additional guest over 10 has an additional cost of $25",
+            "quantity": null,
+            "category": "other",
+            "details": null
+          }
+        ],
+        "pricing": {
+          "basePrice": "$425.00",
+          "dayPricing": [],
+          "perPersonPrice": null,
+          "minimumSpend": null,
+          "depositRequired": null,
+          "notes": [],
+          "currency": "$"
+        },
+        "guestConfig": {
+          "includedGuests": 10,
+          "minimumGuests": null,
+          "maximumGuests": 10,
+          "additionalGuestPrice": null,
+          "guestCategories": []
+        },
+        "duration": "3 Hours",
+        "availableAddOns": [],
+        "restrictions": [],
+        "availableTimeSlots": [],
+        "imageUrl": "https://assets.reservewithrex.com/1763661973716.jpeg",
+        "bookingUrl": null,
+        "sourceUrl": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2026-01-17&guests=1",
+        "screenshotPath": "/home/ross/projects/DRT/Booking/Bookings_Explorer/reports/screenshots/package-7-themed-karaoke-party.png",
+        "rawContent": "Themed Karaoke Party$425.00fromPrivate Themed Karaoke in the Greenhouse: Taylor Swift, KPop Demon Hunters or Wicked 1-15 Guests3 HoursIncludes:2 hours of private karaoke in GreenhouseChoice of Theme: (Taylor Swift, KPop Demon Hunters or Wicked - Please notate your choice when booking)Up to 10 Guests 2 cheese pizzas Unlimited soda pitchers 30-minute game card per personThemed backdropThemed centerpieces for high top tables Themed tablecloth, napkins, plates, dessert plates, cups and utensils Access to themed songsPrize scratch-off card for guest of honor and guests (for future visit)*Max is 15 Guests - each additional guest over 10 has an additional cost of $25 *All Decorations are property of Stratosphere Social. Fees apply if damaged or taken. Reservation DetailsSelect Date Saturday, January 17Guests 1Select a package to view availability. If there are no available times, please try another day."
+      },
+      {
+        "id": "fdf81986-c46c-4078-85a0-c9c41d34b4a7",
+        "name": "Level Up Game Zone Party Package",
+        "category": "Party Packages, Axe Reservations, Events",
+        "description": "Level Up Game Zone Party Package",
+        "tagline": null,
+        "inclusions": [
+          {
+            "item": "60 minutes arcade",
+            "quantity": "60",
+            "category": "activity",
+            "details": null
+          },
+          {
+            "item": "arcade card",
+            "quantity": "arcade",
+            "category": "activity",
+            "details": null
+          },
+          {
+            "item": "Unlimited soda",
+            "quantity": "Unlimited",
+            "category": "drink",
+            "details": null
+          },
+          {
+            "item": "party host",
+            "quantity": "party ",
+            "category": "service",
+            "details": null
+          },
+          {
+            "item": "Tickets for prize redemption per guest2 one",
+            "quantity": null,
+            "category": "tickets",
+            "details": null
+          }
+        ],
+        "pricing": {
+          "basePrice": "$329.00",
+          "dayPricing": [],
+          "perPersonPrice": null,
+          "minimumSpend": null,
+          "depositRequired": null,
+          "notes": [],
+          "currency": "$"
+        },
+        "guestConfig": {
+          "includedGuests": null,
+          "minimumGuests": null,
+          "maximumGuests": null,
+          "additionalGuestPrice": null,
+          "guestCategories": []
+        },
+        "duration": "3 Hours",
+        "availableAddOns": [],
+        "restrictions": [],
+        "availableTimeSlots": [],
+        "imageUrl": "https://assets.reservewithrex.com/1644365906373.jpeg",
+        "bookingUrl": null,
+        "sourceUrl": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2026-01-17&guests=1",
+        "screenshotPath": "/home/ross/projects/DRT/Booking/Bookings_Explorer/reports/screenshots/package-8-level-up-game-zone-party-packa.png",
+        "rawContent": "Level Up Game Zone Party Package $329.00from10 Guests (including Guest of Honor)10-12 Guests3 Hours10 Guests (including Guest of Honor)Additional Guests: $25 eachPrice does not include tax. A 20% service charge will be added upon checkout.WHAT'S INCLUDED:60 minutes arcade card per guest2 games of Virtual Reality or XD Theater per guest200 E-Tickets for prize redemption per guest2 one-topping pizzasUnlimited soda pitchersDedicated party hostParty supplies (tablecloth, plates, napkins, utensils)$10 arcade player card for guest of honor (future visit)$5 arcade player card for each guest (future visit)Reservation DetailsSelect Date Saturday, January 17Guests ​Select a package to view availability. If there are no available times, please try another day."
+      },
+      {
+        "id": "56680cdc-52c4-40bc-a856-30e0c05ff632",
+        "name": "Axe Throwing",
+        "category": "Party Packages, Axe Reservations, Events",
+        "description": null,
+        "tagline": null,
+        "inclusions": [],
+        "pricing": {
+          "basePrice": "$10.00",
+          "dayPricing": [],
+          "perPersonPrice": null,
+          "minimumSpend": null,
+          "depositRequired": null,
+          "notes": [],
+          "currency": "$"
+        },
+        "guestConfig": {
+          "includedGuests": 2,
+          "minimumGuests": null,
+          "maximumGuests": 6,
+          "additionalGuestPrice": null,
+          "guestCategories": []
+        },
+        "duration": "1 Hour",
+        "availableAddOns": [],
+        "restrictions": [],
+        "availableTimeSlots": [],
+        "imageUrl": "https://assets.reservewithrex.com/1682960093451.jpeg",
+        "bookingUrl": null,
+        "sourceUrl": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2026-01-17&guests=1",
+        "screenshotPath": "/home/ross/projects/DRT/Booking/Bookings_Explorer/reports/screenshots/package-9-axe-throwing.png",
+        "rawContent": "Axe Throwing$10.00from/personAxe Throwing2-6 Guests1 HourReserve a lane for axe throwing for 1 hour per person. If you are wanting to book for two lanes, you must reserve two separate reservations for 2 people or more. Reservations are non-refundable. Max 6 guests per lane.Reservation DetailsSelect Date Saturday, January 17Guests ​Select a package to view availability. If there are no available times, please try another day."
+      },
+      {
+        "id": "e63d715c-2eb2-4f96-a65d-2caa31736fbe",
+        "name": "Press Play Game Zone Party Package",
+        "category": "Party Packages, Axe Reservations, Events",
+        "description": "Press Play Game Zone Party Package",
+        "tagline": null,
+        "inclusions": [
+          {
+            "item": "1 hour time",
+            "quantity": "1",
+            "category": "time",
+            "details": null
+          },
+          {
+            "item": "16 in one topping pizza3 Non",
+            "quantity": null,
+            "category": "food",
+            "details": null
+          }
+        ],
+        "pricing": {
+          "basePrice": "$180.00",
+          "dayPricing": [],
+          "perPersonPrice": "$18",
+          "minimumSpend": null,
+          "depositRequired": null,
+          "notes": [],
+          "currency": "$"
+        },
+        "guestConfig": {
+          "includedGuests": null,
+          "minimumGuests": null,
+          "maximumGuests": null,
+          "additionalGuestPrice": null,
+          "guestCategories": []
+        },
+        "duration": "2 Hours",
+        "availableAddOns": [],
+        "restrictions": [],
+        "availableTimeSlots": [],
+        "imageUrl": "https://assets.reservewithrex.com/1750445202276.png",
+        "bookingUrl": null,
+        "sourceUrl": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2026-01-17&guests=1",
+        "screenshotPath": "/home/ross/projects/DRT/Booking/Bookings_Explorer/reports/screenshots/package-10-press-play-game-zone-party-pac.png",
+        "rawContent": "Press Play Game Zone Party Package $180.00fromPress Play Game Zone Party Package 10-15 Guests2 Hours1 hour time play in arcade1 hour in Party Room Only (Event Begins with Party Room Time) 150 Redemption tickets1 - 16 in one topping pizza3 Non-Refillable Soda Pitchers $18 per guest, minimum of 10 guests Reservation DetailsSelect Date Saturday, January 17Guests ​Select a package to view availability. If there are no available times, please try another day."
+      },
+      {
+        "id": "192af1a7-0b76-4ea3-b4c9-6b99d062e301",
+        "name": "Value Axe Throwing for 6 People",
+        "category": "Party Packages, Axe Reservations, Events",
+        "description": "Value Axe Throwing for 6 People",
+        "tagline": null,
+        "inclusions": [],
+        "pricing": {
+          "basePrice": "$134.40",
+          "dayPricing": [],
+          "perPersonPrice": null,
+          "minimumSpend": null,
+          "depositRequired": null,
+          "notes": [],
+          "currency": "$"
+        },
+        "guestConfig": {
+          "includedGuests": 6,
+          "minimumGuests": null,
+          "maximumGuests": null,
+          "additionalGuestPrice": null,
+          "guestCategories": []
+        },
+        "duration": "1 Hour",
+        "availableAddOns": [],
+        "restrictions": [],
+        "availableTimeSlots": [],
+        "imageUrl": "https://assets.reservewithrex.com/1757702874310.png",
+        "bookingUrl": null,
+        "sourceUrl": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2026-01-17&guests=1",
+        "screenshotPath": "/home/ross/projects/DRT/Booking/Bookings_Explorer/reports/screenshots/package-11-value-axe-throwing-for-6-peopl.png",
+        "rawContent": "Value Axe Throwing for 6 People $134.40from/Lane6 Person Axe Throwing 6 Guests1 HourValue Pricing on Axe Throwing for a group of 6 Reservation DetailsSelect Date Saturday, January 17Guests ​Select a package to view availability. If there are no available times, please try another day."
+      }
+    ],
+    "availableDates": [],
+    "venueInfo": {
+      "name": "1332 Londontown BlvdEldersburg, MD 21784",
+      "address": "1332 Londontown BlvdEldersburg, MD 21784",
+      "phone": "(443) 537-2626",
+      "email": null,
+      "hours": null
+    },
+    "mainScreenshotPath": "/home/ross/projects/DRT/Booking/Bookings_Explorer/reports/screenshots/booking-main.png",
+    "discoveredAt": "2025-12-01T12:18:24.835Z",
+    "scrapeDurationMs": 15528
+  }
+]

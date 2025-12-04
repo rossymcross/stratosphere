@@ -1,0 +1,61 @@
+{
+  "baseUrl": "https://www.stratospheresocial.com/eldersburg/",
+  "startedAt": "2025-12-01T12:10:16.133Z",
+  "completedAt": "2025-12-01T12:18:41.811Z",
+  "durationMs": 505678,
+  "config": {
+    "maxPages": null,
+    "maxDepth": null,
+    "maxFlows": 0,
+    "headless": true,
+    "takeScreenshots": true
+  },
+  "stats": {
+    "pagesVisited": 56,
+    "triggersFound": 51,
+    "flowsExplored": 1,
+    "addOnsFound": 0,
+    "failedPages": 21
+  },
+  "bookings": [
+    {
+      "id": "d6eeeb50-2471-4b4d-aaae-f48d5cbd1db8",
+      "name": "Stratosphere Social Event Reservations",
+      "description": null,
+      "entryPoints": [
+        {
+          "sourceUrl": "https://www.stratospheresocial.com/eldersburg/axe-throwing",
+          "triggerText": "book now",
+          "triggerSelector": "a.elementor-button.elementor-button-link.elementor-size-sm:has-text(\"book now\")",
+          "destinationUrl": "https://events.stratospheresocial.com/package?venue=Stratosphere%20Social&date=2025-12-01&guests=1"
+        }
+      ],
+      "flows": [
+        {
+          "flowType": "standard",
+          "groupSizeMode": "default",
+          "groupSize": null,
+          "steps": [
+            {
+              "stepOrder": 1,
+              "url": "https://www.stratospheresocial.com/eldersburg/axe-throwing/",
+              "description": "Unknown step: Axe Throwing",
+              "stepType": "unknown",
+              "availableOptions": {},
+              "addOns": [],
+              "formFields": [],
+              "screenshotPath": "/home/ross/projects/DRT/Booking/Bookings_Explorer/reports/screenshots/book now-default-step1.png",
+              "errors": []
+            }
+          ],
+          "completed": false,
+          "terminationReason": null,
+          "explorationTimeMs": 12976
+        }
+      ],
+      "groupSizeConfig": null,
+      "discoveredAt": "2025-12-01T12:18:09.306Z"
+    }
+  ],
+  "errors": []
+}
