@@ -155,6 +155,15 @@ export const PartyPackageSelection = ({ category, onBack, onSelectPackage }: Par
                   )}>
                     {pkg.priceDisplay}
                   </p>
+
+                  {/* Value callout for Strike */}
+                  {isStrike && (
+                    <div className="mt-3 px-4 py-2 bg-[#FFD700]/10 border border-[#FFD700]/30 rounded-lg">
+                      <p className="text-[#FFD700] font-black text-sm uppercase tracking-wide">
+                        $890 Worth of Value!
+                      </p>
+                    </div>
+                  )}
                   
                   {/* Guests Info */}
                   {(pkg.guestsIncluded || pkg.minGuests) && (
