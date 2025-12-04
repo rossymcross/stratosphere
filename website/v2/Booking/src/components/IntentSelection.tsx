@@ -1,6 +1,10 @@
 import React from 'react';
 import { ArrowLeft, Ticket, PartyPopper, Axe } from 'lucide-react';
 import { BookingCard } from './BookingCard';
+// Intent selection images
+import eventsImg from "../assets/intent/events.png";
+import partyImg from "../assets/intent/party.png";
+import axeImg from "../assets/intent/axe.png";
 
 interface IntentSelectionProps {
   onBack: () => void;
@@ -37,34 +41,34 @@ export const IntentSelection = ({ onBack, onSelect }: IntentSelectionProps) => {
       <div className="flex flex-col md:flex-row gap-8 items-center justify-center w-full">
         <div onClick={() => onSelect('events')}>
           <BookingCard
-            icon={<Ticket className="w-12 h-12" strokeWidth={1.5} />}
+            icon={<Ticket className="w-8 h-8" strokeWidth={1.5} />}
             headline="Special Events"
             subHeadline="Tickets & Experiences"
-            bodyText="Browse our calendar of exciting events including dueling pianos, trivia nights, karaoke, and themed celebrations."
             buttonText="View Events"
             onClick={() => onSelect('events')}
+            backgroundImage={eventsImg}
           />
         </div>
         
         <div onClick={() => onSelect('party')}>
           <BookingCard
-            icon={<PartyPopper className="w-12 h-12" strokeWidth={1.5} />}
+            icon={<PartyPopper className="w-8 h-8" strokeWidth={1.5} />}
             headline="Party Bookings"
             subHeadline="Celebrate With Us"
-            bodyText="Plan your perfect party with bowling, arcade games, and more. Choose from our curated packages for birthdays and celebrations."
             buttonText="Plan Party"
             onClick={() => onSelect('party')}
+            backgroundImage={partyImg}
           />
         </div>
 
         <div onClick={() => onSelect('axe-throwing')}>
           <BookingCard
-            icon={<Axe className="w-12 h-12" strokeWidth={1.5} />}
+            icon={<Axe className="w-8 h-8" strokeWidth={1.5} />}
             headline="Axe Throwing"
             subHeadline="Book a Bay"
-            bodyText="Reserve an axe throwing bay for you and your friends. Perfect for competitive fun and memorable experiences."
             buttonText="Book Bay"
             onClick={() => onSelect('axe-throwing')}
+            backgroundImage={axeImg}
           />
         </div>
       </div>
