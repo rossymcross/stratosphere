@@ -62,7 +62,7 @@ const EventCard = ({ event, onClick }: EventCardProps) => {
       onClick={onClick}
       className={cn(
         "group relative flex flex-col w-full rounded-[24px] overflow-hidden text-left transition-all duration-500",
-        "border border-white/10 shadow-lg bg-[#041C2C]/60 backdrop-blur-xl",
+        "shadow-[inset_0_0_0_1px_rgba(255,255,255,0.2)] bg-[#041C2C]/60 backdrop-blur-xl",
         "hover:shadow-[inset_0_0_0_2px_#66E0F8,0_0_30px_-5px_#66E0F8] hover:-translate-y-2"
       )}
     >

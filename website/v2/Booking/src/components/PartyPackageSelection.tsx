@@ -83,14 +83,14 @@ export const PartyPackageSelection = ({ category, onBack, onSelectPackage }: Par
             <div 
               key={pkg.id}
               className={cn(
-                "flex flex-col bg-[#041C2C]/60 backdrop-blur-xl border rounded-[32px] overflow-hidden transition-all duration-300 group relative",
+                "flex flex-col bg-[#041C2C]/60 backdrop-blur-xl rounded-[32px] overflow-hidden transition-all duration-300 group relative",
                 isStrike 
-                  ? "border-[#FFD700]/50 shadow-[0_0_40px_rgba(255,215,0,0.15)] scale-[1.02] z-10" 
+                  ? "shadow-[inset_0_0_0_2px_#FFD700,0_0_40px_rgba(255,215,0,0.15)] scale-[1.02] z-10" 
                   : isSpare
-                    ? "border-[#E2E8F0]/50 shadow-[0_0_30px_rgba(226,232,240,0.1)] scale-[1.01] z-0"
+                    ? "shadow-[inset_0_0_0_2px_#E2E8F0,0_0_30px_rgba(226,232,240,0.1)] scale-[1.01] z-0"
                     : isSplit
-                      ? "border-[#CD7F32]/50 hover:shadow-[inset_0_0_0_2px_#CD7F32,0_0_30px_-5px_#CD7F32]"
-                      : "border-white/10 hover:shadow-[inset_0_0_0_2px_#66E0F8,0_0_30px_-5px_#66E0F8]"
+                      ? "shadow-[inset_0_0_0_1px_rgba(205,127,50,0.3)] hover:shadow-[inset_0_0_0_2px_#CD7F32,0_0_30px_-5px_#CD7F32]"
+                      : "shadow-[inset_0_0_0_1px_rgba(255,255,255,0.2)] hover:shadow-[inset_0_0_0_2px_#66E0F8,0_0_30px_-5px_#66E0F8]"
               )}
             >
               {isStrike && (

@@ -74,7 +74,7 @@ export const GlassCard = ({
         onClick={onClick}
         className={cn(
           "group relative flex flex-col w-full min-h-[400px] rounded-[32px] overflow-hidden text-left transition-all duration-500 cubic-bezier(0.4, 0, 0.2, 1)",
-          "border border-white/20 shadow-[0_8px_30px_rgba(0,0,0,0.12)]",
+          "shadow-[inset_0_0_0_1px_rgba(255,255,255,0.2),0_8px_30px_rgba(0,0,0,0.12)]",
           "hover:shadow-[inset_0_0_0_2px_#66E0F8,0_0_30px_-5px_#66E0F8] hover:-translate-y-1",
           "focus:outline-none focus:ring-2 focus:ring-[#66E0F8] bg-[#041C2C]"
         )}
