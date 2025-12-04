@@ -144,7 +144,6 @@ p {
     top: 0;
     left: 0;
     width: 100%;
-    height: 36px;
     z-index: 1001;
 }
 
@@ -152,8 +151,7 @@ p {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 100%;
-    padding: 0 40px;
+    padding: 8px 40px;
     max-width: 1600px;
     margin: 0 auto;
 }
@@ -205,9 +203,8 @@ p {
     left: 0;
     width: 100%;
     z-index: 1000;
-    padding: 15px 0;
-    background: #041C2C;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+    padding: 20px 0;
+    background: linear-gradient(to bottom, rgba(0,0,0,0.7), transparent);
 }
 
 .nav-container {
